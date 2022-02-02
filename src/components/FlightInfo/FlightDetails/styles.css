@@ -1,0 +1,6 @@
+.card-content {
+    display: flex;
+    row-gap: 0.5rem;
+    flex-direction: column;
+    padding: 1rem;
+  }

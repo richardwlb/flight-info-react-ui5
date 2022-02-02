@@ -1,0 +1,10 @@
+.card-wrapper {
+  /* width: 95%; */
+  margin: 1rem;
+  max-width: 40rem;
+  /* height: 30rem; */
+}
+
+.flight-details {
+  display: flex;
+}

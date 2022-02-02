@@ -1,0 +1,107 @@
+{
+    "pagination": {
+        "limit": 100,
+        "offset": 0,
+        "count": 2,
+        "total": 2
+    },
+    "data": [
+        {
+            "flight_date": "2022-02-02",
+            "flight_status": "scheduled",
+            "departure": {
+                "airport": "Aeroporto Internacional Guarulhos",
+                "timezone": "America/Sao_Paulo",
+                "iata": "GRU",
+                "icao": "SBGR",
+                "terminal": "2",
+                "gate": "242",
+                "delay": null,
+                "scheduled": "2022-02-02T19:00:00+00:00",
+                "estimated": "2022-02-02T19:00:00+00:00",
+                "actual": null,
+                "estimated_runway": null,
+                "actual_runway": null
+            },
+            "arrival": {
+                "airport": "Aeroparque Jorge Newbery",
+                "timezone": "America/Argentina/Buenos_Aires",
+                "iata": "AEP",
+                "icao": "SABE",
+                "terminal": "TA",
+                "gate": null,
+                "baggage": null,
+                "delay": null,
+                "scheduled": "2022-02-02T21:55:00+00:00",
+                "estimated": "2022-02-02T21:55:00+00:00",
+                "actual": null,
+                "estimated_runway": null,
+                "actual_runway": null
+            },
+            "airline": {
+                "name": "Aerolineas Argentinas",
+                "iata": "AR",
+                "icao": "ARG"
+            },
+            "flight": {
+                "number": "1243",
+                "iata": "AR1243",
+                "icao": "ARG1243",
+                "codeshared": null
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2022-02-01",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Aeroporto Internacional Guarulhos",
+                "timezone": "America/Sao_Paulo",
+                "iata": "GRU",
+                "icao": "SBGR",
+                "terminal": "2",
+                "gate": "C",
+                "delay": 18,
+                "scheduled": "2022-02-01T19:00:00+00:00",
+                "estimated": "2022-02-01T19:00:00+00:00",
+                "actual": "2022-02-01T19:18:00+00:00",
+                "estimated_runway": "2022-02-01T19:18:00+00:00",
+                "actual_runway": "2022-02-01T19:18:00+00:00"
+            },
+            "arrival": {
+                "airport": "Aeroparque Jorge Newbery",
+                "timezone": "America/Argentina/Buenos_Aires",
+                "iata": "AEP",
+                "icao": "SABE",
+                "terminal": "TA",
+                "gate": null,
+                "baggage": "2I",
+                "delay": null,
+                "scheduled": "2022-02-01T21:55:00+00:00",
+                "estimated": "2022-02-01T21:55:00+00:00",
+                "actual": "2022-02-01T21:38:00+00:00",
+                "estimated_runway": "2022-02-01T21:38:00+00:00",
+                "actual_runway": "2022-02-01T21:38:00+00:00"
+            },
+            "airline": {
+                "name": "Aerolineas Argentinas",
+                "iata": "AR",
+                "icao": "ARG"
+            },
+            "flight": {
+                "number": "1243",
+                "iata": "AR1243",
+                "icao": "ARG1243",
+                "codeshared": null
+            },
+            "aircraft": {
+                "registration": "LV-GVC",
+                "iata": "B738",
+                "icao": "B738",
+                "icao24": "E07583"
+            },
+            "live": null
+        }
+    ]
+}
