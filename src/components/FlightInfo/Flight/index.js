@@ -9,7 +9,6 @@ const Flight = ({ flight }) => {
       <LabelData label={'Number'} data={flight.number} />
       <LabelData label={'iata'} data={flight.iata} />
       <LabelData label={'icao'} data={flight.icao} />
-      <LabelData label={'Codeshared'} data={flight.codeshared} />
     </div>
   );
 };

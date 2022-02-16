@@ -1,4 +1,5 @@
 import React from 'react';
+import moment from 'moment';
 import { Title } from '@ui5/webcomponents-react';
 
 import './styles.css';
@@ -18,11 +19,26 @@ const FlightDetails = ({ details, title }) => {
         <LabelData label={'Baggage'} data={details.baggage} />
       )}
       <LabelData label={'delay'} data={details.delay} />
-      <LabelData label={'Scheduled'} data={details.scheduled} />
-      <LabelData label={'Estimated'} data={details.estimated} />
-      <LabelData label={'Actual'} data={details.actual} />
-      <LabelData label={'Estimated Runway'} data={details.estimated_runway} />
-      <LabelData label={'Actual Runway'} data={details.actual_runway} />
+      <LabelData
+        label={'Scheduled'}
+        data={moment(details.scheduled).format('DD/MM/YYYY hh:mm')}
+      />
+      <LabelData
+        label={'Estimated'}
+        data={moment(details.estimated).format('DD/MM/YYYY hh:mm')}
+      />
+      <LabelData
+        label={'Actual'}
+        data={moment(details.actual).format('DD/MM/YYYY hh:mm')}
+      />
+      <LabelData
+        label={'Estimated Runway'}
+        data={moment(details.estimated_runway).format('DD/MM/YYYY hh:mm')}
+      />
+      <LabelData
+        label={'Actual Runway'}
+        data={moment(details.actual_runway).format('DD/MM/YYYY hh:mm')}
+      />
     </div>
   );
 };

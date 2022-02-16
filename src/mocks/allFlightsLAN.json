@@ -1,0 +1,5111 @@
+{
+  "pagination": {
+    "limit": 100,
+    "offset": 0,
+    "count": 100,
+    "total": 3913
+  },
+  "data": [
+    {
+      "flight_date": "2022-02-11",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Kingsford Smith",
+        "timezone": "Australia/Sydney",
+        "iata": "SYD",
+        "icao": "YSSY",
+        "terminal": "2",
+        "gate": "A53",
+        "delay": null,
+        "scheduled": "2022-02-11T06:25:00+00:00",
+        "estimated": "2022-02-11T06:25:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Maroochydore",
+        "timezone": "Australia/Brisbane",
+        "iata": "MCY",
+        "icao": "YBSU",
+        "terminal": "4",
+        "gate": null,
+        "baggage": null,
+        "delay": null,
+        "scheduled": "2022-02-11T06:55:00+00:00",
+        "estimated": "2022-02-11T06:55:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "LATAM Airlines",
+        "iata": "LA",
+        "icao": "LAN"
+      },
+      "flight": {
+        "number": "5720",
+        "iata": "LA5720",
+        "icao": "LAN5720",
+        "codeshared": {
+          "airline_name": "jetstar",
+          "airline_iata": "jq",
+          "airline_icao": "jst",
+          "flight_number": "786",
+          "flight_iata": "jq786",
+          "flight_icao": "jst786"
+        }
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2022-02-11",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Auckland International",
+        "timezone": "Pacific/Auckland",
+        "iata": "AKL",
+        "icao": "NZAA",
+        "terminal": "D",
+        "gate": "24",
+        "delay": null,
+        "scheduled": "2022-02-11T06:55:00+00:00",
+        "estimated": "2022-02-11T06:55:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Wellington International",
+        "timezone": "Pacific/Auckland",
+        "iata": "WLG",
+        "icao": "NZWN",
+        "terminal": null,
+        "gate": "22",
+        "baggage": null,
+        "delay": null,
+        "scheduled": "2022-02-11T08:00:00+00:00",
+        "estimated": "2022-02-11T08:00:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "LATAM Airlines",
+        "iata": "LA",
+        "icao": "LAN"
+      },
+      "flight": {
+        "number": "5682",
+        "iata": "LA5682",
+        "icao": "LAN5682",
+        "codeshared": {
+          "airline_name": "jetstar",
+          "airline_iata": "jq",
+          "airline_icao": "jst",
+          "flight_number": "253",
+          "flight_iata": "jq253",
+          "flight_icao": "jst253"
+        }
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2022-02-11",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Barajas",
+        "timezone": "Europe/Madrid",
+        "iata": "MAD",
+        "icao": "LEMD",
+        "terminal": "4",
+        "gate": null,
+        "delay": null,
+        "scheduled": "2022-02-11T00:25:00+00:00",
+        "estimated": "2022-02-11T00:25:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Jorge Chavez International",
+        "timezone": "America/Lima",
+        "iata": "LIM",
+        "icao": "SPJC",
+        "terminal": null,
+        "gate": null,
+        "baggage": null,
+        "delay": null,
+        "scheduled": "2022-02-11T06:10:00+00:00",
+        "estimated": "2022-02-11T06:10:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "LATAM Airlines",
+        "iata": "LA",
+        "icao": "LAN"
+      },
+      "flight": {
+        "number": "2485",
+        "iata": "LA2485",
+        "icao": "LAN2485",
+        "codeshared": null
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2022-02-11",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Queenstown",
+        "timezone": "Pacific/Auckland",
+        "iata": "ZQN",
+        "icao": "NZQN",
+        "terminal": null,
+        "gate": null,
+        "delay": null,
+        "scheduled": "2022-02-11T11:05:00+00:00",
+        "estimated": "2022-02-11T11:05:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Auckland International",
+        "timezone": "Pacific/Auckland",
+        "iata": "AKL",
+        "icao": "NZAA",
+        "terminal": "D",
+        "gate": null,
+        "baggage": null,
+        "delay": null,
+        "scheduled": "2022-02-11T12:55:00+00:00",
+        "estimated": "2022-02-11T12:55:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "LATAM Airlines",
+        "iata": "LA",
+        "icao": "LAN"
+      },
+      "flight": {
+        "number": "5699",
+        "iata": "LA5699",
+        "icao": "LAN5699",
+        "codeshared": {
+          "airline_name": "jetstar",
+          "airline_iata": "jq",
+          "airline_icao": "jst",
+          "flight_number": "292",
+          "flight_iata": "jq292",
+          "flight_icao": "jst292"
+        }
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2022-02-11",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Adelaide International Airport",
+        "timezone": "Australia/Adelaide",
+        "iata": "ADL",
+        "icao": "YPAD",
+        "terminal": "1",
+        "gate": "23",
+        "delay": null,
+        "scheduled": "2022-02-11T06:35:00+00:00",
+        "estimated": "2022-02-11T06:35:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Kingsford Smith",
+        "timezone": "Australia/Sydney",
+        "iata": "SYD",
+        "icao": "YSSY",
+        "terminal": "3",
+        "gate": "T3G",
+        "baggage": "QFR",
+        "delay": null,
+        "scheduled": "2022-02-11T09:00:00+00:00",
+        "estimated": "2022-02-11T09:00:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "LATAM Airlines",
+        "iata": "LA",
+        "icao": "LAN"
+      },
+      "flight": {
+        "number": "4806",
+        "iata": "LA4806",
+        "icao": "LAN4806",
+        "codeshared": {
+          "airline_name": "qantas",
+          "airline_iata": "qf",
+          "airline_icao": "qfa",
+          "flight_number": "732",
+          "flight_iata": "qf732",
+          "flight_icao": "qfa732"
+        }
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2022-02-11",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Wellington International",
+        "timezone": "Pacific/Auckland",
+        "iata": "WLG",
+        "icao": "NZWN",
+        "terminal": null,
+        "gate": "21",
+        "delay": null,
+        "scheduled": "2022-02-11T12:55:00+00:00",
+        "estimated": "2022-02-11T12:55:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Auckland International",
+        "timezone": "Pacific/Auckland",
+        "iata": "AKL",
+        "icao": "NZAA",
+        "terminal": "D",
+        "gate": null,
+        "baggage": null,
+        "delay": null,
+        "scheduled": "2022-02-11T14:00:00+00:00",
+        "estimated": "2022-02-11T14:00:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "LATAM Airlines",
+        "iata": "LA",
+        "icao": "LAN"
+      },
+      "flight": {
+        "number": "5697",
+        "iata": "LA5697",
+        "icao": "LAN5697",
+        "codeshared": {
+          "airline_name": "jetstar",
+          "airline_iata": "jq",
+          "airline_icao": "jst",
+          "flight_number": "256",
+          "flight_iata": "jq256",
+          "flight_icao": "jst256"
+        }
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2022-02-11",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Naha",
+        "timezone": "Asia/Tokyo",
+        "iata": "OKA",
+        "icao": "ROAH",
+        "terminal": "D",
+        "gate": "25",
+        "delay": null,
+        "scheduled": "2022-02-11T07:45:00+00:00",
+        "estimated": "2022-02-11T07:45:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Haneda Airport",
+        "timezone": "Asia/Tokyo",
+        "iata": "HND",
+        "icao": "RJTT",
+        "terminal": "1",
+        "gate": null,
+        "baggage": null,
+        "delay": null,
+        "scheduled": "2022-02-11T09:55:00+00:00",
+        "estimated": "2022-02-11T09:55:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "LATAM Airlines",
+        "iata": "LA",
+        "icao": "LAN"
+      },
+      "flight": {
+        "number": "7478",
+        "iata": "LA7478",
+        "icao": "LAN7478",
+        "codeshared": {
+          "airline_name": "jal",
+          "airline_iata": "jl",
+          "airline_icao": "jal",
+          "flight_number": "900",
+          "flight_iata": "jl900",
+          "flight_icao": "jal900"
+        }
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2022-02-11",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Zvartnots International",
+        "timezone": "Asia/Yerevan",
+        "iata": "EVN",
+        "icao": "UDYZ",
+        "terminal": null,
+        "gate": "4",
+        "delay": null,
+        "scheduled": "2022-02-11T03:30:00+00:00",
+        "estimated": "2022-02-11T03:30:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Doha International",
+        "timezone": "Asia/Qatar",
+        "iata": "DOH",
+        "icao": "OTHH",
+        "terminal": null,
+        "gate": null,
+        "baggage": "9",
+        "delay": null,
+        "scheduled": "2022-02-11T05:30:00+00:00",
+        "estimated": "2022-02-11T05:30:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "LATAM Airlines",
+        "iata": "LA",
+        "icao": "LAN"
+      },
+      "flight": {
+        "number": "5291",
+        "iata": "LA5291",
+        "icao": "LAN5291",
+        "codeshared": {
+          "airline_name": "qatar airways",
+          "airline_iata": "qr",
+          "airline_icao": "qtr",
+          "flight_number": "286",
+          "flight_iata": "qr286",
+          "flight_icao": "qtr286"
+        }
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2022-02-11",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Doha International",
+        "timezone": "Asia/Qatar",
+        "iata": "DOH",
+        "icao": "OTHH",
+        "terminal": null,
+        "gate": "E21",
+        "delay": null,
+        "scheduled": "2022-02-11T02:10:00+00:00",
+        "estimated": "2022-02-11T02:10:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Kisauni",
+        "timezone": "Africa/Dar_es_Salaam",
+        "iata": "ZNZ",
+        "icao": "HTZA",
+        "terminal": null,
+        "gate": null,
+        "baggage": null,
+        "delay": null,
+        "scheduled": "2022-02-11T08:10:00+00:00",
+        "estimated": "2022-02-11T08:10:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "LATAM Airlines",
+        "iata": "LA",
+        "icao": "LAN"
+      },
+      "flight": {
+        "number": "7413",
+        "iata": "LA7413",
+        "icao": "LAN7413",
+        "codeshared": {
+          "airline_name": "qatar airways",
+          "airline_iata": "qr",
+          "airline_icao": "qtr",
+          "flight_number": "1487",
+          "flight_iata": "qr1487",
+          "flight_icao": "qtr1487"
+        }
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2022-02-11",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Fukuoka",
+        "timezone": "Asia/Tokyo",
+        "iata": "FUK",
+        "icao": "RJFF",
+        "terminal": "D",
+        "gate": "8",
+        "delay": null,
+        "scheduled": "2022-02-11T07:00:00+00:00",
+        "estimated": "2022-02-11T07:00:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Haneda Airport",
+        "timezone": "Asia/Tokyo",
+        "iata": "HND",
+        "icao": "RJTT",
+        "terminal": "1",
+        "gate": null,
+        "baggage": null,
+        "delay": null,
+        "scheduled": "2022-02-11T08:30:00+00:00",
+        "estimated": "2022-02-11T08:30:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "LATAM Airlines",
+        "iata": "LA",
+        "icao": "LAN"
+      },
+      "flight": {
+        "number": "7485",
+        "iata": "LA7485",
+        "icao": "LAN7485",
+        "codeshared": {
+          "airline_name": "jal",
+          "airline_iata": "jl",
+          "airline_icao": "jal",
+          "flight_number": "300",
+          "flight_iata": "jl300",
+          "flight_icao": "jal300"
+        }
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2022-02-11",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Queen Alia International",
+        "timezone": "Asia/Amman",
+        "iata": "AMM",
+        "icao": "OJAI",
+        "terminal": null,
+        "gate": null,
+        "delay": null,
+        "scheduled": "2022-02-11T01:45:00+00:00",
+        "estimated": "2022-02-11T01:45:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Doha International",
+        "timezone": "Asia/Qatar",
+        "iata": "DOH",
+        "icao": "OTHH",
+        "terminal": null,
+        "gate": null,
+        "baggage": "5",
+        "delay": null,
+        "scheduled": "2022-02-11T05:25:00+00:00",
+        "estimated": "2022-02-11T05:25:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "LATAM Airlines",
+        "iata": "LA",
+        "icao": "LAN"
+      },
+      "flight": {
+        "number": "5292",
+        "iata": "LA5292",
+        "icao": "LAN5292",
+        "codeshared": {
+          "airline_name": "qatar airways",
+          "airline_iata": "qr",
+          "airline_icao": "qtr",
+          "flight_number": "405",
+          "flight_iata": "qr405",
+          "flight_icao": "qtr405"
+        }
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2022-02-11",
+      "flight_status": "active",
+      "departure": {
+        "airport": "Seoul (Incheon)",
+        "timezone": "Asia/Seoul",
+        "iata": "ICN",
+        "icao": "RKSI",
+        "terminal": "1",
+        "gate": "46",
+        "delay": 1,
+        "scheduled": "2022-02-11T00:25:00+00:00",
+        "estimated": "2022-02-11T00:25:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Doha International",
+        "timezone": "Asia/Qatar",
+        "iata": "DOH",
+        "icao": "OTHH",
+        "terminal": null,
+        "gate": null,
+        "baggage": "4",
+        "delay": null,
+        "scheduled": "2022-02-11T05:15:00+00:00",
+        "estimated": "2022-02-11T05:15:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "LATAM Airlines",
+        "iata": "LA",
+        "icao": "LAN"
+      },
+      "flight": {
+        "number": "6037",
+        "iata": "LA6037",
+        "icao": "LAN6037",
+        "codeshared": {
+          "airline_name": "qatar airways",
+          "airline_iata": "qr",
+          "airline_icao": "qtr",
+          "flight_number": "859",
+          "flight_iata": "qr859",
+          "flight_icao": "qtr859"
+        }
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2022-02-11",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Mashad",
+        "timezone": "Asia/Tehran",
+        "iata": "MHD",
+        "icao": "OIMM",
+        "terminal": null,
+        "gate": null,
+        "delay": null,
+        "scheduled": "2022-02-11T03:20:00+00:00",
+        "estimated": "2022-02-11T03:20:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Doha International",
+        "timezone": "Asia/Qatar",
+        "iata": "DOH",
+        "icao": "OTHH",
+        "terminal": null,
+        "gate": null,
+        "baggage": "1",
+        "delay": null,
+        "scheduled": "2022-02-11T05:40:00+00:00",
+        "estimated": "2022-02-11T05:40:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "LATAM Airlines",
+        "iata": "LA",
+        "icao": "LAN"
+      },
+      "flight": {
+        "number": "7429",
+        "iata": "LA7429",
+        "icao": "LAN7429",
+        "codeshared": {
+          "airline_name": "qatar airways",
+          "airline_iata": "qr",
+          "airline_icao": "qtr",
+          "flight_number": "493",
+          "flight_iata": "qr493",
+          "flight_icao": "qtr493"
+        }
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2022-02-11",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Doha International",
+        "timezone": "Asia/Qatar",
+        "iata": "DOH",
+        "icao": "OTHH",
+        "terminal": null,
+        "gate": "C4",
+        "delay": null,
+        "scheduled": "2022-02-11T03:20:00+00:00",
+        "estimated": "2022-02-11T03:20:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Malé International Airport",
+        "timezone": "Indian/Maldives",
+        "iata": "MLE",
+        "icao": "VRMM",
+        "terminal": null,
+        "gate": null,
+        "baggage": null,
+        "delay": null,
+        "scheduled": "2022-02-11T10:00:00+00:00",
+        "estimated": "2022-02-11T10:00:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "LATAM Airlines",
+        "iata": "LA",
+        "icao": "LAN"
+      },
+      "flight": {
+        "number": "6054",
+        "iata": "LA6054",
+        "icao": "LAN6054",
+        "codeshared": {
+          "airline_name": "qatar airways",
+          "airline_iata": "qr",
+          "airline_icao": "qtr",
+          "flight_number": "672",
+          "flight_iata": "qr672",
+          "flight_icao": "qtr672"
+        }
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2022-02-11",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Doha International",
+        "timezone": "Asia/Qatar",
+        "iata": "DOH",
+        "icao": "OTHH",
+        "terminal": null,
+        "gate": "C2",
+        "delay": null,
+        "scheduled": "2022-02-11T01:00:00+00:00",
+        "estimated": "2022-02-11T01:00:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Malé International Airport",
+        "timezone": "Indian/Maldives",
+        "iata": "MLE",
+        "icao": "VRMM",
+        "terminal": null,
+        "gate": null,
+        "baggage": null,
+        "delay": null,
+        "scheduled": "2022-02-11T07:40:00+00:00",
+        "estimated": "2022-02-11T07:40:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "LATAM Airlines",
+        "iata": "LA",
+        "icao": "LAN"
+      },
+      "flight": {
+        "number": "5311",
+        "iata": "LA5311",
+        "icao": "LAN5311",
+        "codeshared": {
+          "airline_name": "qatar airways",
+          "airline_iata": "qr",
+          "airline_icao": "qtr",
+          "flight_number": "676",
+          "flight_iata": "qr676",
+          "flight_icao": "qtr676"
+        }
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2022-02-11",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Itami",
+        "timezone": "Asia/Tokyo",
+        "iata": "ITM",
+        "icao": "RJOO",
+        "terminal": null,
+        "gate": "17",
+        "delay": null,
+        "scheduled": "2022-02-11T07:30:00+00:00",
+        "estimated": "2022-02-11T07:30:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Haneda Airport",
+        "timezone": "Asia/Tokyo",
+        "iata": "HND",
+        "icao": "RJTT",
+        "terminal": "1",
+        "gate": null,
+        "baggage": null,
+        "delay": null,
+        "scheduled": "2022-02-11T08:40:00+00:00",
+        "estimated": "2022-02-11T08:40:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "LATAM Airlines",
+        "iata": "LA",
+        "icao": "LAN"
+      },
+      "flight": {
+        "number": "7480",
+        "iata": "LA7480",
+        "icao": "LAN7480",
+        "codeshared": {
+          "airline_name": "jal",
+          "airline_iata": "jl",
+          "airline_icao": "jal",
+          "flight_number": "104",
+          "flight_iata": "jl104",
+          "flight_icao": "jal104"
+        }
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2022-02-11",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Dar Es Salam International Airport",
+        "timezone": "Africa/Dar_es_Salaam",
+        "iata": "DAR",
+        "icao": "HTDA",
+        "terminal": "3",
+        "gate": null,
+        "delay": null,
+        "scheduled": "2022-02-11T01:15:00+00:00",
+        "estimated": "2022-02-11T01:15:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Doha International",
+        "timezone": "Asia/Qatar",
+        "iata": "DOH",
+        "icao": "OTHH",
+        "terminal": null,
+        "gate": null,
+        "baggage": "3",
+        "delay": null,
+        "scheduled": "2022-02-11T06:50:00+00:00",
+        "estimated": "2022-02-11T06:50:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "LATAM Airlines",
+        "iata": "LA",
+        "icao": "LAN"
+      },
+      "flight": {
+        "number": "7412",
+        "iata": "LA7412",
+        "icao": "LAN7412",
+        "codeshared": {
+          "airline_name": "qatar airways",
+          "airline_iata": "qr",
+          "airline_icao": "qtr",
+          "flight_number": "1348",
+          "flight_iata": "qr1348",
+          "flight_icao": "qtr1348"
+        }
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2022-02-11",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Heydar Aliyev International (Bina International)",
+        "timezone": "Asia/Baku",
+        "iata": "GYD",
+        "icao": "UBBB",
+        "terminal": "1",
+        "gate": null,
+        "delay": null,
+        "scheduled": "2022-02-11T03:25:00+00:00",
+        "estimated": "2022-02-11T03:25:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Doha International",
+        "timezone": "Asia/Qatar",
+        "iata": "DOH",
+        "icao": "OTHH",
+        "terminal": null,
+        "gate": null,
+        "baggage": "6",
+        "delay": null,
+        "scheduled": "2022-02-11T05:20:00+00:00",
+        "estimated": "2022-02-11T05:20:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "LATAM Airlines",
+        "iata": "LA",
+        "icao": "LAN"
+      },
+      "flight": {
+        "number": "6033",
+        "iata": "LA6033",
+        "icao": "LAN6033",
+        "codeshared": {
+          "airline_name": "qatar airways",
+          "airline_iata": "qr",
+          "airline_icao": "qtr",
+          "flight_number": "354",
+          "flight_iata": "qr354",
+          "flight_icao": "qtr354"
+        }
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2022-02-11",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Doha International",
+        "timezone": "Asia/Qatar",
+        "iata": "DOH",
+        "icao": "OTHH",
+        "terminal": null,
+        "gate": "D22",
+        "delay": null,
+        "scheduled": "2022-02-11T01:50:00+00:00",
+        "estimated": "2022-02-11T01:50:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Seeb",
+        "timezone": "Asia/Muscat",
+        "iata": "MCT",
+        "icao": "OOMS",
+        "terminal": "1",
+        "gate": null,
+        "baggage": null,
+        "delay": null,
+        "scheduled": "2022-02-11T04:30:00+00:00",
+        "estimated": "2022-02-11T04:30:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "LATAM Airlines",
+        "iata": "LA",
+        "icao": "LAN"
+      },
+      "flight": {
+        "number": "6063",
+        "iata": "LA6063",
+        "icao": "LAN6063",
+        "codeshared": {
+          "airline_name": "qatar airways",
+          "airline_iata": "qr",
+          "airline_icao": "qtr",
+          "flight_number": "1148",
+          "flight_iata": "qr1148",
+          "flight_icao": "qtr1148"
+        }
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2022-02-11",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Itami",
+        "timezone": "Asia/Tokyo",
+        "iata": "ITM",
+        "icao": "RJOO",
+        "terminal": null,
+        "gate": "18",
+        "delay": null,
+        "scheduled": "2022-02-11T08:30:00+00:00",
+        "estimated": "2022-02-11T08:30:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Haneda Airport",
+        "timezone": "Asia/Tokyo",
+        "iata": "HND",
+        "icao": "RJTT",
+        "terminal": "1",
+        "gate": null,
+        "baggage": null,
+        "delay": null,
+        "scheduled": "2022-02-11T09:35:00+00:00",
+        "estimated": "2022-02-11T09:35:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "LATAM Airlines",
+        "iata": "LA",
+        "icao": "LAN"
+      },
+      "flight": {
+        "number": "7472",
+        "iata": "LA7472",
+        "icao": "LAN7472",
+        "codeshared": {
+          "airline_name": "jal",
+          "airline_iata": "jl",
+          "airline_icao": "jal",
+          "flight_number": "106",
+          "flight_iata": "jl106",
+          "flight_icao": "jal106"
+        }
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2022-02-11",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Wellington International",
+        "timezone": "Pacific/Auckland",
+        "iata": "WLG",
+        "icao": "NZWN",
+        "terminal": null,
+        "gate": "22",
+        "delay": null,
+        "scheduled": "2022-02-11T12:15:00+00:00",
+        "estimated": "2022-02-11T12:15:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Auckland International",
+        "timezone": "Pacific/Auckland",
+        "iata": "AKL",
+        "icao": "NZAA",
+        "terminal": "D",
+        "gate": null,
+        "baggage": null,
+        "delay": null,
+        "scheduled": "2022-02-11T13:20:00+00:00",
+        "estimated": "2022-02-11T13:20:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "LATAM Airlines",
+        "iata": "LA",
+        "icao": "LAN"
+      },
+      "flight": {
+        "number": "5698",
+        "iata": "LA5698",
+        "icao": "LAN5698",
+        "codeshared": {
+          "airline_name": "jetstar",
+          "airline_iata": "jq",
+          "airline_icao": "jst",
+          "flight_number": "258",
+          "flight_iata": "jq258",
+          "flight_icao": "jst258"
+        }
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2022-02-11",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Doha International",
+        "timezone": "Asia/Qatar",
+        "iata": "DOH",
+        "icao": "OTHH",
+        "terminal": null,
+        "gate": "D20",
+        "delay": null,
+        "scheduled": "2022-02-11T01:25:00+00:00",
+        "estimated": "2022-02-11T01:25:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Aeroporto Internacional Guarulhos",
+        "timezone": "America/Sao_Paulo",
+        "iata": "GRU",
+        "icao": "SBGR",
+        "terminal": "3",
+        "gate": null,
+        "baggage": null,
+        "delay": null,
+        "scheduled": "2022-02-11T10:00:00+00:00",
+        "estimated": "2022-02-11T10:00:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "LATAM Airlines",
+        "iata": "LA",
+        "icao": "LAN"
+      },
+      "flight": {
+        "number": "5295",
+        "iata": "LA5295",
+        "icao": "LAN5295",
+        "codeshared": {
+          "airline_name": "qatar airways",
+          "airline_iata": "qr",
+          "airline_icao": "qtr",
+          "flight_number": "779",
+          "flight_iata": "qr779",
+          "flight_icao": "qtr779"
+        }
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2022-02-11",
+      "flight_status": "active",
+      "departure": {
+        "airport": "Kuala Lumpur International Airport (klia)",
+        "timezone": "Asia/Kuala_Lumpur",
+        "iata": "KUL",
+        "icao": "WMKK",
+        "terminal": "1",
+        "gate": "C1",
+        "delay": null,
+        "scheduled": "2022-02-11T02:45:00+00:00",
+        "estimated": "2022-02-11T02:45:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Doha International",
+        "timezone": "Asia/Qatar",
+        "iata": "DOH",
+        "icao": "OTHH",
+        "terminal": null,
+        "gate": null,
+        "baggage": "5",
+        "delay": null,
+        "scheduled": "2022-02-11T05:30:00+00:00",
+        "estimated": "2022-02-11T05:30:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "LATAM Airlines",
+        "iata": "LA",
+        "icao": "LAN"
+      },
+      "flight": {
+        "number": "5270",
+        "iata": "LA5270",
+        "icao": "LAN5270",
+        "codeshared": {
+          "airline_name": "qatar airways",
+          "airline_iata": "qr",
+          "airline_icao": "qtr",
+          "flight_number": "853",
+          "flight_iata": "qr853",
+          "flight_icao": "qtr853"
+        }
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2022-02-11",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Fukuoka",
+        "timezone": "Asia/Tokyo",
+        "iata": "FUK",
+        "icao": "RJFF",
+        "terminal": "D",
+        "gate": "7",
+        "delay": null,
+        "scheduled": "2022-02-11T07:30:00+00:00",
+        "estimated": "2022-02-11T07:30:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Haneda Airport",
+        "timezone": "Asia/Tokyo",
+        "iata": "HND",
+        "icao": "RJTT",
+        "terminal": "1",
+        "gate": null,
+        "baggage": null,
+        "delay": null,
+        "scheduled": "2022-02-11T09:01:00+00:00",
+        "estimated": "2022-02-11T09:01:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "LATAM Airlines",
+        "iata": "LA",
+        "icao": "LAN"
+      },
+      "flight": {
+        "number": "7476",
+        "iata": "LA7476",
+        "icao": "LAN7476",
+        "codeshared": {
+          "airline_name": "jal",
+          "airline_iata": "jl",
+          "airline_icao": "jal",
+          "flight_number": "302",
+          "flight_iata": "jl302",
+          "flight_icao": "jal302"
+        }
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2022-02-11",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Novo Alexeyevka International",
+        "timezone": "Asia/Tbilisi",
+        "iata": "TBS",
+        "icao": "UGTB",
+        "terminal": null,
+        "gate": null,
+        "delay": null,
+        "scheduled": "2022-02-11T02:25:00+00:00",
+        "estimated": "2022-02-11T02:25:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Doha International",
+        "timezone": "Asia/Qatar",
+        "iata": "DOH",
+        "icao": "OTHH",
+        "terminal": null,
+        "gate": null,
+        "baggage": "5",
+        "delay": null,
+        "scheduled": "2022-02-11T04:35:00+00:00",
+        "estimated": "2022-02-11T04:35:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "LATAM Airlines",
+        "iata": "LA",
+        "icao": "LAN"
+      },
+      "flight": {
+        "number": "5264",
+        "iata": "LA5264",
+        "icao": "LAN5264",
+        "codeshared": {
+          "airline_name": "qatar airways",
+          "airline_iata": "qr",
+          "airline_icao": "qtr",
+          "flight_number": "256",
+          "flight_iata": "qr256",
+          "flight_icao": "qtr256"
+        }
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2022-02-11",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Doha International",
+        "timezone": "Asia/Qatar",
+        "iata": "DOH",
+        "icao": "OTHH",
+        "terminal": null,
+        "gate": "E23A",
+        "delay": null,
+        "scheduled": "2022-02-11T01:45:00+00:00",
+        "estimated": "2022-02-11T01:45:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Shahid Dastghaib International",
+        "timezone": "Asia/Tehran",
+        "iata": "SYZ",
+        "icao": "OISS",
+        "terminal": "4",
+        "gate": null,
+        "baggage": null,
+        "delay": null,
+        "scheduled": "2022-02-11T03:35:00+00:00",
+        "estimated": "2022-02-11T03:35:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "LATAM Airlines",
+        "iata": "LA",
+        "icao": "LAN"
+      },
+      "flight": {
+        "number": "7422",
+        "iata": "LA7422",
+        "icao": "LAN7422",
+        "codeshared": {
+          "airline_name": "qatar airways",
+          "airline_iata": "qr",
+          "airline_icao": "qtr",
+          "flight_number": "476",
+          "flight_iata": "qr476",
+          "flight_icao": "qtr476"
+        }
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2022-02-11",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Beirut Rafic Hariri Airport",
+        "timezone": "Asia/Beirut",
+        "iata": "BEY",
+        "icao": "OLBA",
+        "terminal": null,
+        "gate": null,
+        "delay": null,
+        "scheduled": "2022-02-11T00:50:00+00:00",
+        "estimated": "2022-02-11T00:50:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Doha International",
+        "timezone": "Asia/Qatar",
+        "iata": "DOH",
+        "icao": "OTHH",
+        "terminal": null,
+        "gate": null,
+        "baggage": "7",
+        "delay": null,
+        "scheduled": "2022-02-11T05:20:00+00:00",
+        "estimated": "2022-02-11T05:20:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "LATAM Airlines",
+        "iata": "LA",
+        "icao": "LAN"
+      },
+      "flight": {
+        "number": "6045",
+        "iata": "LA6045",
+        "icao": "LAN6045",
+        "codeshared": {
+          "airline_name": "qatar airways",
+          "airline_iata": "qr",
+          "airline_icao": "qtr",
+          "flight_number": "419",
+          "flight_iata": "qr419",
+          "flight_icao": "qtr419"
+        }
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2022-02-11",
+      "flight_status": "active",
+      "departure": {
+        "airport": "Singapore Changi",
+        "timezone": "Asia/Singapore",
+        "iata": "SIN",
+        "icao": "WSSS",
+        "terminal": "1",
+        "gate": "C26",
+        "delay": null,
+        "scheduled": "2022-02-11T02:00:00+00:00",
+        "estimated": "2022-02-11T02:00:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Doha International",
+        "timezone": "Asia/Qatar",
+        "iata": "DOH",
+        "icao": "OTHH",
+        "terminal": null,
+        "gate": null,
+        "baggage": "7",
+        "delay": null,
+        "scheduled": "2022-02-11T05:05:00+00:00",
+        "estimated": "2022-02-11T05:05:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "LATAM Airlines",
+        "iata": "LA",
+        "icao": "LAN"
+      },
+      "flight": {
+        "number": "5274",
+        "iata": "LA5274",
+        "icao": "LAN5274",
+        "codeshared": {
+          "airline_name": "qatar airways",
+          "airline_iata": "qr",
+          "airline_icao": "qtr",
+          "flight_number": "945",
+          "flight_iata": "qr945",
+          "flight_icao": "qtr945"
+        }
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2022-02-11",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Auckland International",
+        "timezone": "Pacific/Auckland",
+        "iata": "AKL",
+        "icao": "NZAA",
+        "terminal": "D",
+        "gate": "21",
+        "delay": null,
+        "scheduled": "2022-02-11T08:30:00+00:00",
+        "estimated": "2022-02-11T08:30:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Queenstown",
+        "timezone": "Pacific/Auckland",
+        "iata": "ZQN",
+        "icao": "NZQN",
+        "terminal": "D",
+        "gate": null,
+        "baggage": null,
+        "delay": null,
+        "scheduled": "2022-02-11T10:25:00+00:00",
+        "estimated": "2022-02-11T10:25:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "LATAM Airlines",
+        "iata": "LA",
+        "icao": "LAN"
+      },
+      "flight": {
+        "number": "5685",
+        "iata": "LA5685",
+        "icao": "LAN5685",
+        "codeshared": {
+          "airline_name": "jetstar",
+          "airline_iata": "jq",
+          "airline_icao": "jst",
+          "flight_number": "295",
+          "flight_iata": "jq295",
+          "flight_icao": "jst295"
+        }
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2022-02-11",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Chitose",
+        "timezone": "Asia/Tokyo",
+        "iata": "CTS",
+        "icao": "RJCC",
+        "terminal": "D",
+        "gate": "14",
+        "delay": null,
+        "scheduled": "2022-02-11T07:50:00+00:00",
+        "estimated": "2022-02-11T07:50:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Haneda Airport",
+        "timezone": "Asia/Tokyo",
+        "iata": "HND",
+        "icao": "RJTT",
+        "terminal": "1",
+        "gate": null,
+        "baggage": null,
+        "delay": null,
+        "scheduled": "2022-02-11T09:30:00+00:00",
+        "estimated": "2022-02-11T09:30:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "LATAM Airlines",
+        "iata": "LA",
+        "icao": "LAN"
+      },
+      "flight": {
+        "number": "7474",
+        "iata": "LA7474",
+        "icao": "LAN7474",
+        "codeshared": {
+          "airline_name": "jal",
+          "airline_iata": "jl",
+          "airline_icao": "jal",
+          "flight_number": "500",
+          "flight_iata": "jl500",
+          "flight_icao": "jal500"
+        }
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2022-02-11",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Doha International",
+        "timezone": "Asia/Qatar",
+        "iata": "DOH",
+        "icao": "OTHH",
+        "terminal": null,
+        "gate": "C27",
+        "delay": null,
+        "scheduled": "2022-02-11T00:55:00+00:00",
+        "estimated": "2022-02-11T00:55:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": null,
+        "timezone": null,
+        "iata": "IKA",
+        "icao": "OIIE",
+        "terminal": "MAIN",
+        "gate": null,
+        "baggage": null,
+        "delay": null,
+        "scheduled": "2022-02-11T03:35:00+00:00",
+        "estimated": "2022-02-11T03:35:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "LATAM Airlines",
+        "iata": "LA",
+        "icao": "LAN"
+      },
+      "flight": {
+        "number": "7424",
+        "iata": "LA7424",
+        "icao": "LAN7424",
+        "codeshared": {
+          "airline_name": "qatar airways",
+          "airline_iata": "qr",
+          "airline_icao": "qtr",
+          "flight_number": "490",
+          "flight_iata": "qr490",
+          "flight_icao": "qtr490"
+        }
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2022-02-11",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Doha International",
+        "timezone": "Asia/Qatar",
+        "iata": "DOH",
+        "icao": "OTHH",
+        "terminal": null,
+        "gate": "C7",
+        "delay": null,
+        "scheduled": "2022-02-11T01:10:00+00:00",
+        "estimated": "2022-02-11T01:10:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Kisauni",
+        "timezone": "Africa/Dar_es_Salaam",
+        "iata": "ZNZ",
+        "icao": "HTZA",
+        "terminal": null,
+        "gate": null,
+        "baggage": null,
+        "delay": null,
+        "scheduled": "2022-02-11T07:10:00+00:00",
+        "estimated": "2022-02-11T07:10:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "LATAM Airlines",
+        "iata": "LA",
+        "icao": "LAN"
+      },
+      "flight": {
+        "number": "7442",
+        "iata": "LA7442",
+        "icao": "LAN7442",
+        "codeshared": {
+          "airline_name": "qatar airways",
+          "airline_iata": "qr",
+          "airline_icao": "qtr",
+          "flight_number": "1351",
+          "flight_iata": "qr1351",
+          "flight_icao": "qtr1351"
+        }
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2022-02-10",
+      "flight_status": "landed",
+      "departure": {
+        "airport": "Bilbao",
+        "timezone": "Europe/Madrid",
+        "iata": "BIO",
+        "icao": "LEBB",
+        "terminal": null,
+        "gate": null,
+        "delay": 11,
+        "scheduled": "2022-02-10T09:25:00+00:00",
+        "estimated": "2022-02-10T09:25:00+00:00",
+        "actual": "2022-02-10T09:36:00+00:00",
+        "estimated_runway": "2022-02-10T09:36:00+00:00",
+        "actual_runway": "2022-02-10T09:36:00+00:00"
+      },
+      "arrival": {
+        "airport": "Barajas",
+        "timezone": "Europe/Madrid",
+        "iata": "MAD",
+        "icao": "LEMD",
+        "terminal": "4",
+        "gate": null,
+        "baggage": "04",
+        "delay": null,
+        "scheduled": "2022-02-10T10:35:00+00:00",
+        "estimated": "2022-02-10T10:35:00+00:00",
+        "actual": "2022-02-10T10:32:00+00:00",
+        "estimated_runway": "2022-02-10T10:32:00+00:00",
+        "actual_runway": "2022-02-10T10:32:00+00:00"
+      },
+      "airline": {
+        "name": "LATAM Airlines",
+        "iata": "LA",
+        "icao": "LAN"
+      },
+      "flight": {
+        "number": "5412",
+        "iata": "LA5412",
+        "icao": "LAN5412",
+        "codeshared": {
+          "airline_name": "iberia",
+          "airline_iata": "ib",
+          "airline_icao": "ibe",
+          "flight_number": "423",
+          "flight_iata": "ib423",
+          "flight_icao": "ibe423"
+        }
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2022-02-10",
+      "flight_status": "landed",
+      "departure": {
+        "airport": "Guararapes International",
+        "timezone": "America/Recife",
+        "iata": "REC",
+        "icao": "SBRF",
+        "terminal": "1",
+        "gate": "11",
+        "delay": null,
+        "scheduled": "2022-02-10T05:10:00+00:00",
+        "estimated": "2022-02-10T05:10:00+00:00",
+        "actual": "2022-02-10T05:09:00+00:00",
+        "estimated_runway": "2022-02-10T05:09:00+00:00",
+        "actual_runway": "2022-02-10T05:09:00+00:00"
+      },
+      "arrival": {
+        "airport": "Presidente Juscelino Kubitschek",
+        "timezone": "America/Sao_Paulo",
+        "iata": "BSB",
+        "icao": "SBBR",
+        "terminal": "1",
+        "gate": null,
+        "baggage": null,
+        "delay": null,
+        "scheduled": "2022-02-10T07:50:00+00:00",
+        "estimated": "2022-02-10T07:50:00+00:00",
+        "actual": "2022-02-10T07:27:00+00:00",
+        "estimated_runway": "2022-02-10T07:27:00+00:00",
+        "actual_runway": "2022-02-10T07:27:00+00:00"
+      },
+      "airline": {
+        "name": "LATAM Airlines",
+        "iata": "LA",
+        "icao": "LAN"
+      },
+      "flight": {
+        "number": "3990",
+        "iata": "LA3990",
+        "icao": "LAN3990",
+        "codeshared": null
+      },
+      "aircraft": {
+        "registration": "PT-XPE",
+        "iata": "A321",
+        "icao": "A321",
+        "icao24": "E491B1"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2022-02-10",
+      "flight_status": "landed",
+      "departure": {
+        "airport": "Captain Rolden International Airport",
+        "timezone": "America/Lima",
+        "iata": "PCL",
+        "icao": "SPCL",
+        "terminal": "1",
+        "gate": "1",
+        "delay": 15,
+        "scheduled": "2022-02-10T07:35:00+00:00",
+        "estimated": "2022-02-10T07:35:00+00:00",
+        "actual": "2022-02-10T07:50:00+00:00",
+        "estimated_runway": "2022-02-10T07:50:00+00:00",
+        "actual_runway": "2022-02-10T07:50:00+00:00"
+      },
+      "arrival": {
+        "airport": "Jorge Chavez International",
+        "timezone": "America/Lima",
+        "iata": "LIM",
+        "icao": "SPJC",
+        "terminal": "1",
+        "gate": null,
+        "baggage": "1",
+        "delay": null,
+        "scheduled": "2022-02-10T08:50:00+00:00",
+        "estimated": "2022-02-10T08:50:00+00:00",
+        "actual": "2022-02-10T08:41:00+00:00",
+        "estimated_runway": "2022-02-10T08:41:00+00:00",
+        "actual_runway": "2022-02-10T08:41:00+00:00"
+      },
+      "airline": {
+        "name": "LATAM Airlines",
+        "iata": "LA",
+        "icao": "LAN"
+      },
+      "flight": {
+        "number": "2357",
+        "iata": "LA2357",
+        "icao": "LAN2357",
+        "codeshared": null
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2022-02-10",
+      "flight_status": "landed",
+      "departure": {
+        "airport": "El Prat De Llobregat",
+        "timezone": "Europe/Madrid",
+        "iata": "BCN",
+        "icao": "LEBL",
+        "terminal": "1",
+        "gate": "A6",
+        "delay": 11,
+        "scheduled": "2022-02-10T09:35:00+00:00",
+        "estimated": "2022-02-10T09:35:00+00:00",
+        "actual": "2022-02-10T09:46:00+00:00",
+        "estimated_runway": "2022-02-10T09:46:00+00:00",
+        "actual_runway": "2022-02-10T09:46:00+00:00"
+      },
+      "arrival": {
+        "airport": "Barajas",
+        "timezone": "Europe/Madrid",
+        "iata": "MAD",
+        "icao": "LEMD",
+        "terminal": "4",
+        "gate": null,
+        "baggage": "16",
+        "delay": null,
+        "scheduled": "2022-02-10T11:00:00+00:00",
+        "estimated": "2022-02-10T11:00:00+00:00",
+        "actual": "2022-02-10T10:38:00+00:00",
+        "estimated_runway": "2022-02-10T10:38:00+00:00",
+        "actual_runway": "2022-02-10T10:38:00+00:00"
+      },
+      "airline": {
+        "name": "LATAM Airlines",
+        "iata": "LA",
+        "icao": "LAN"
+      },
+      "flight": {
+        "number": "1515",
+        "iata": "LA1515",
+        "icao": "LAN1515",
+        "codeshared": {
+          "airline_name": "iberia",
+          "airline_iata": "ib",
+          "airline_icao": "ibe",
+          "flight_number": "3011",
+          "flight_iata": "ib3011",
+          "flight_icao": "ibe3011"
+        }
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2022-02-10",
+      "flight_status": "landed",
+      "departure": {
+        "airport": "Barajas",
+        "timezone": "Europe/Madrid",
+        "iata": "MAD",
+        "icao": "LEMD",
+        "terminal": "4",
+        "gate": "J54",
+        "delay": 43,
+        "scheduled": "2022-02-10T08:00:00+00:00",
+        "estimated": "2022-02-10T08:00:00+00:00",
+        "actual": "2022-02-10T08:42:00+00:00",
+        "estimated_runway": "2022-02-10T08:42:00+00:00",
+        "actual_runway": "2022-02-10T08:42:00+00:00"
+      },
+      "arrival": {
+        "airport": "El Prat De Llobregat",
+        "timezone": "Europe/Madrid",
+        "iata": "BCN",
+        "icao": "LEBL",
+        "terminal": "1",
+        "gate": null,
+        "baggage": "00",
+        "delay": 12,
+        "scheduled": "2022-02-10T09:20:00+00:00",
+        "estimated": "2022-02-10T09:20:00+00:00",
+        "actual": "2022-02-10T09:31:00+00:00",
+        "estimated_runway": "2022-02-10T09:31:00+00:00",
+        "actual_runway": "2022-02-10T09:31:00+00:00"
+      },
+      "airline": {
+        "name": "LATAM Airlines",
+        "iata": "LA",
+        "icao": "LAN"
+      },
+      "flight": {
+        "number": "1520",
+        "iata": "LA1520",
+        "icao": "LAN1520",
+        "codeshared": {
+          "airline_name": "iberia",
+          "airline_iata": "ib",
+          "airline_icao": "ibe",
+          "flight_number": "3006",
+          "flight_iata": "ib3006",
+          "flight_icao": "ibe3006"
+        }
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2022-02-10",
+      "flight_status": "landed",
+      "departure": {
+        "airport": "Val De Cans",
+        "timezone": "America/Belem",
+        "iata": "BEL",
+        "icao": "SBBE",
+        "terminal": "1",
+        "gate": "4",
+        "delay": 3,
+        "scheduled": "2022-02-10T11:45:00+00:00",
+        "estimated": "2022-02-10T11:45:00+00:00",
+        "actual": "2022-02-10T11:47:00+00:00",
+        "estimated_runway": "2022-02-10T11:47:00+00:00",
+        "actual_runway": "2022-02-10T11:47:00+00:00"
+      },
+      "arrival": {
+        "airport": "Pinto Martins",
+        "timezone": "America/Fortaleza",
+        "iata": "FOR",
+        "icao": "SBFZ",
+        "terminal": "2",
+        "gate": null,
+        "baggage": null,
+        "delay": null,
+        "scheduled": "2022-02-10T13:35:00+00:00",
+        "estimated": "2022-02-10T13:35:00+00:00",
+        "actual": "2022-02-10T13:24:00+00:00",
+        "estimated_runway": "2022-02-10T13:24:00+00:00",
+        "actual_runway": "2022-02-10T13:24:00+00:00"
+      },
+      "airline": {
+        "name": "LATAM Airlines",
+        "iata": "LA",
+        "icao": "LAN"
+      },
+      "flight": {
+        "number": "3782",
+        "iata": "LA3782",
+        "icao": "LAN3782",
+        "codeshared": null
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2022-02-10",
+      "flight_status": "landed",
+      "departure": {
+        "airport": "Afonso Pena International Airport",
+        "timezone": "America/Sao_Paulo",
+        "iata": "CWB",
+        "icao": "SBCT",
+        "terminal": "1",
+        "gate": "8",
+        "delay": 4,
+        "scheduled": "2022-02-10T05:40:00+00:00",
+        "estimated": "2022-02-10T05:40:00+00:00",
+        "actual": "2022-02-10T05:43:00+00:00",
+        "estimated_runway": "2022-02-10T05:43:00+00:00",
+        "actual_runway": "2022-02-10T05:43:00+00:00"
+      },
+      "arrival": {
+        "airport": "Congonhas International Airport",
+        "timezone": "America/Sao_Paulo",
+        "iata": "CGH",
+        "icao": "SBSP",
+        "terminal": "1",
+        "gate": "03",
+        "baggage": null,
+        "delay": null,
+        "scheduled": "2022-02-10T06:40:00+00:00",
+        "estimated": "2022-02-10T06:40:00+00:00",
+        "actual": "2022-02-10T06:29:00+00:00",
+        "estimated_runway": "2022-02-10T06:29:00+00:00",
+        "actual_runway": "2022-02-10T06:29:00+00:00"
+      },
+      "airline": {
+        "name": "LATAM Airlines",
+        "iata": "LA",
+        "icao": "LAN"
+      },
+      "flight": {
+        "number": "3837",
+        "iata": "LA3837",
+        "icao": "LAN3837",
+        "codeshared": null
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2022-02-10",
+      "flight_status": "landed",
+      "departure": {
+        "airport": "Afonso Pena International Airport",
+        "timezone": "America/Sao_Paulo",
+        "iata": "CWB",
+        "icao": "SBCT",
+        "terminal": "1",
+        "gate": "6",
+        "delay": 1,
+        "scheduled": "2022-02-10T05:55:00+00:00",
+        "estimated": "2022-02-10T05:55:00+00:00",
+        "actual": "2022-02-10T05:56:00+00:00",
+        "estimated_runway": "2022-02-10T05:56:00+00:00",
+        "actual_runway": "2022-02-10T05:56:00+00:00"
+      },
+      "arrival": {
+        "airport": "Presidente Juscelino Kubitschek",
+        "timezone": "America/Sao_Paulo",
+        "iata": "BSB",
+        "icao": "SBBR",
+        "terminal": "1",
+        "gate": null,
+        "baggage": null,
+        "delay": null,
+        "scheduled": "2022-02-10T07:45:00+00:00",
+        "estimated": "2022-02-10T07:45:00+00:00",
+        "actual": "2022-02-10T07:39:00+00:00",
+        "estimated_runway": "2022-02-10T07:39:00+00:00",
+        "actual_runway": "2022-02-10T07:39:00+00:00"
+      },
+      "airline": {
+        "name": "LATAM Airlines",
+        "iata": "LA",
+        "icao": "LAN"
+      },
+      "flight": {
+        "number": "3533",
+        "iata": "LA3533",
+        "icao": "LAN3533",
+        "codeshared": null
+      },
+      "aircraft": {
+        "registration": "PR-MYX",
+        "iata": "A320",
+        "icao": "A320",
+        "icao24": "E48CE7"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2022-02-10",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Lisbon Portela",
+        "timezone": "Europe/Lisbon",
+        "iata": "LIS",
+        "icao": "LPPT",
+        "terminal": "1",
+        "gate": "47",
+        "delay": 121,
+        "scheduled": "2022-02-10T08:40:00+00:00",
+        "estimated": "2022-02-10T08:40:00+00:00",
+        "actual": "2022-02-10T10:41:00+00:00",
+        "estimated_runway": "2022-02-10T10:41:00+00:00",
+        "actual_runway": "2022-02-10T10:41:00+00:00"
+      },
+      "arrival": {
+        "airport": "Aeroporto Internacional Guarulhos",
+        "timezone": "America/Sao_Paulo",
+        "iata": "GRU",
+        "icao": "SBGR",
+        "terminal": "3",
+        "gate": null,
+        "baggage": null,
+        "delay": 89,
+        "scheduled": "2022-02-10T16:15:00+00:00",
+        "estimated": "2022-02-10T16:15:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "LATAM Airlines",
+        "iata": "LA",
+        "icao": "LAN"
+      },
+      "flight": {
+        "number": "8147",
+        "iata": "LA8147",
+        "icao": "LAN8147",
+        "codeshared": null
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2022-02-10",
+      "flight_status": "landed",
+      "departure": {
+        "airport": "Pres Ibanez",
+        "timezone": "America/Santiago",
+        "iata": "PUQ",
+        "icao": "SCCI",
+        "terminal": "1",
+        "gate": "1",
+        "delay": 7,
+        "scheduled": "2022-02-10T05:43:00+00:00",
+        "estimated": "2022-02-10T05:43:00+00:00",
+        "actual": "2022-02-10T05:49:00+00:00",
+        "estimated_runway": "2022-02-10T05:49:00+00:00",
+        "actual_runway": "2022-02-10T05:49:00+00:00"
+      },
+      "arrival": {
+        "airport": "Arturo Merino Benitez",
+        "timezone": "America/Santiago",
+        "iata": "SCL",
+        "icao": "SCEL",
+        "terminal": "2",
+        "gate": null,
+        "baggage": null,
+        "delay": null,
+        "scheduled": "2022-02-10T09:06:00+00:00",
+        "estimated": "2022-02-10T09:06:00+00:00",
+        "actual": "2022-02-10T08:47:00+00:00",
+        "estimated_runway": "2022-02-10T08:47:00+00:00",
+        "actual_runway": "2022-02-10T08:47:00+00:00"
+      },
+      "airline": {
+        "name": "LATAM Airlines",
+        "iata": "LA",
+        "icao": "LAN"
+      },
+      "flight": {
+        "number": "96",
+        "iata": "LA96",
+        "icao": "LAN96",
+        "codeshared": null
+      },
+      "aircraft": {
+        "registration": "CC-BAI",
+        "iata": "A320",
+        "icao": "A320",
+        "icao24": "E80419"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2022-02-10",
+      "flight_status": "landed",
+      "departure": {
+        "airport": "Hercilio Luz",
+        "timezone": "America/Sao_Paulo",
+        "iata": "FLN",
+        "icao": "SBFL",
+        "terminal": "1",
+        "gate": "6",
+        "delay": 4,
+        "scheduled": "2022-02-10T05:25:00+00:00",
+        "estimated": "2022-02-10T05:25:00+00:00",
+        "actual": "2022-02-10T05:28:00+00:00",
+        "estimated_runway": "2022-02-10T05:28:00+00:00",
+        "actual_runway": "2022-02-10T05:28:00+00:00"
+      },
+      "arrival": {
+        "airport": "Congonhas International Airport",
+        "timezone": "America/Sao_Paulo",
+        "iata": "CGH",
+        "icao": "SBSP",
+        "terminal": "1",
+        "gate": "05",
+        "baggage": null,
+        "delay": null,
+        "scheduled": "2022-02-10T06:30:00+00:00",
+        "estimated": "2022-02-10T06:30:00+00:00",
+        "actual": "2022-02-10T06:20:00+00:00",
+        "estimated_runway": "2022-02-10T06:20:00+00:00",
+        "actual_runway": "2022-02-10T06:20:00+00:00"
+      },
+      "airline": {
+        "name": "LATAM Airlines",
+        "iata": "LA",
+        "icao": "LAN"
+      },
+      "flight": {
+        "number": "3100",
+        "iata": "LA3100",
+        "icao": "LAN3100",
+        "codeshared": null
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2022-02-10",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Silvio Pettirossi",
+        "timezone": "America/Asuncion",
+        "iata": "ASU",
+        "icao": "SGAS",
+        "terminal": null,
+        "gate": null,
+        "delay": null,
+        "scheduled": "2022-02-10T06:00:00+00:00",
+        "estimated": "2022-02-10T06:00:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Carrasco International",
+        "timezone": "America/Montevideo",
+        "iata": "MVD",
+        "icao": "SUMU",
+        "terminal": null,
+        "gate": null,
+        "baggage": null,
+        "delay": null,
+        "scheduled": "2022-02-10T07:50:00+00:00",
+        "estimated": "2022-02-10T07:50:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "LATAM Airlines",
+        "iata": "LA",
+        "icao": "LAN"
+      },
+      "flight": {
+        "number": "6019",
+        "iata": "LA6019",
+        "icao": "LAN6019",
+        "codeshared": {
+          "airline_name": "paranair",
+          "airline_iata": "zp",
+          "airline_icao": "azp",
+          "flight_number": "844",
+          "flight_iata": "zp844",
+          "flight_icao": "azp844"
+        }
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2022-02-10",
+      "flight_status": "active",
+      "departure": {
+        "airport": "Congonhas International Airport",
+        "timezone": "America/Sao_Paulo",
+        "iata": "CGH",
+        "icao": "SBSP",
+        "terminal": null,
+        "gate": null,
+        "delay": null,
+        "scheduled": "2022-02-10T06:00:00+00:00",
+        "estimated": "2022-02-10T06:00:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Santos Dumont",
+        "timezone": "America/Sao_Paulo",
+        "iata": "SDU",
+        "icao": "SBRJ",
+        "terminal": "1",
+        "gate": null,
+        "baggage": null,
+        "delay": null,
+        "scheduled": "2022-02-10T07:05:00+00:00",
+        "estimated": "2022-02-10T07:05:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "LATAM Airlines",
+        "iata": "LA",
+        "icao": "LAN"
+      },
+      "flight": {
+        "number": "3216",
+        "iata": "LA3216",
+        "icao": "LAN3216",
+        "codeshared": null
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2022-02-10",
+      "flight_status": "landed",
+      "departure": {
+        "airport": "Congonhas International Airport",
+        "timezone": "America/Sao_Paulo",
+        "iata": "CGH",
+        "icao": "SBSP",
+        "terminal": "1",
+        "gate": "5",
+        "delay": 3,
+        "scheduled": "2022-02-10T06:05:00+00:00",
+        "estimated": "2022-02-10T06:05:00+00:00",
+        "actual": "2022-02-10T06:07:00+00:00",
+        "estimated_runway": "2022-02-10T06:07:00+00:00",
+        "actual_runway": "2022-02-10T06:07:00+00:00"
+      },
+      "arrival": {
+        "airport": "Hercilio Luz",
+        "timezone": "America/Sao_Paulo",
+        "iata": "FLN",
+        "icao": "SBFL",
+        "terminal": "2",
+        "gate": null,
+        "baggage": null,
+        "delay": null,
+        "scheduled": "2022-02-10T07:20:00+00:00",
+        "estimated": "2022-02-10T07:20:00+00:00",
+        "actual": "2022-02-10T06:59:00+00:00",
+        "estimated_runway": "2022-02-10T06:59:00+00:00",
+        "actual_runway": "2022-02-10T06:59:00+00:00"
+      },
+      "airline": {
+        "name": "LATAM Airlines",
+        "iata": "LA",
+        "icao": "LAN"
+      },
+      "flight": {
+        "number": "3103",
+        "iata": "LA3103",
+        "icao": "LAN3103",
+        "codeshared": null
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2022-02-10",
+      "flight_status": "landed",
+      "departure": {
+        "airport": "Santos Dumont",
+        "timezone": "America/Sao_Paulo",
+        "iata": "SDU",
+        "icao": "SBRJ",
+        "terminal": "1",
+        "gate": "4",
+        "delay": 7,
+        "scheduled": "2022-02-10T06:00:00+00:00",
+        "estimated": "2022-02-10T06:00:00+00:00",
+        "actual": "2022-02-10T06:06:00+00:00",
+        "estimated_runway": "2022-02-10T06:06:00+00:00",
+        "actual_runway": "2022-02-10T06:06:00+00:00"
+      },
+      "arrival": {
+        "airport": "Presidente Juscelino Kubitschek",
+        "timezone": "America/Sao_Paulo",
+        "iata": "BSB",
+        "icao": "SBBR",
+        "terminal": "1",
+        "gate": null,
+        "baggage": null,
+        "delay": null,
+        "scheduled": "2022-02-10T07:50:00+00:00",
+        "estimated": "2022-02-10T07:50:00+00:00",
+        "actual": "2022-02-10T07:42:00+00:00",
+        "estimated_runway": "2022-02-10T07:42:00+00:00",
+        "actual_runway": "2022-02-10T07:42:00+00:00"
+      },
+      "airline": {
+        "name": "LATAM Airlines",
+        "iata": "LA",
+        "icao": "LAN"
+      },
+      "flight": {
+        "number": "3022",
+        "iata": "LA3022",
+        "icao": "LAN3022",
+        "codeshared": null
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2022-02-10",
+      "flight_status": "cancelled",
+      "departure": {
+        "airport": "Santos Dumont",
+        "timezone": "America/Sao_Paulo",
+        "iata": "SDU",
+        "icao": "SBRJ",
+        "terminal": "1",
+        "gate": null,
+        "delay": null,
+        "scheduled": "2022-02-10T06:00:00+00:00",
+        "estimated": "2022-02-10T06:00:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Congonhas International Airport",
+        "timezone": "America/Sao_Paulo",
+        "iata": "CGH",
+        "icao": "SBSP",
+        "terminal": "1",
+        "gate": "1",
+        "baggage": null,
+        "delay": null,
+        "scheduled": "2022-02-10T07:05:00+00:00",
+        "estimated": "2022-02-10T07:05:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "LATAM Airlines",
+        "iata": "LA",
+        "icao": "LAN"
+      },
+      "flight": {
+        "number": "3514",
+        "iata": "LA3514",
+        "icao": "LAN3514",
+        "codeshared": null
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2022-02-10",
+      "flight_status": "landed",
+      "departure": {
+        "airport": "Lisbon Portela",
+        "timezone": "Europe/Lisbon",
+        "iata": "LIS",
+        "icao": "LPPT",
+        "terminal": "1",
+        "gate": null,
+        "delay": 81,
+        "scheduled": "2022-02-10T08:15:00+00:00",
+        "estimated": "2022-02-10T08:15:00+00:00",
+        "actual": "2022-02-10T09:35:00+00:00",
+        "estimated_runway": "2022-02-10T09:35:00+00:00",
+        "actual_runway": "2022-02-10T09:35:00+00:00"
+      },
+      "arrival": {
+        "airport": "Barajas",
+        "timezone": "Europe/Madrid",
+        "iata": "MAD",
+        "icao": "LEMD",
+        "terminal": "4",
+        "gate": null,
+        "baggage": "10",
+        "delay": 43,
+        "scheduled": "2022-02-10T10:40:00+00:00",
+        "estimated": "2022-02-10T10:40:00+00:00",
+        "actual": "2022-02-10T11:23:00+00:00",
+        "estimated_runway": "2022-02-10T11:23:00+00:00",
+        "actual_runway": "2022-02-10T11:23:00+00:00"
+      },
+      "airline": {
+        "name": "LATAM Airlines",
+        "iata": "LA",
+        "icao": "LAN"
+      },
+      "flight": {
+        "number": "7180",
+        "iata": "LA7180",
+        "icao": "LAN7180",
+        "codeshared": {
+          "airline_name": "iberia",
+          "airline_iata": "ib",
+          "airline_icao": "ibe",
+          "flight_number": "3111",
+          "flight_iata": "ib3111",
+          "flight_icao": "ibe3111"
+        }
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2022-02-10",
+      "flight_status": "landed",
+      "departure": {
+        "airport": "San Pablo",
+        "timezone": "Europe/Madrid",
+        "iata": "SVQ",
+        "icao": "LEZL",
+        "terminal": "1",
+        "gate": "4",
+        "delay": 8,
+        "scheduled": "2022-02-10T09:30:00+00:00",
+        "estimated": "2022-02-10T09:30:00+00:00",
+        "actual": "2022-02-10T09:37:00+00:00",
+        "estimated_runway": "2022-02-10T09:37:00+00:00",
+        "actual_runway": "2022-02-10T09:37:00+00:00"
+      },
+      "arrival": {
+        "airport": "Barajas",
+        "timezone": "Europe/Madrid",
+        "iata": "MAD",
+        "icao": "LEMD",
+        "terminal": "4",
+        "gate": null,
+        "baggage": "01",
+        "delay": null,
+        "scheduled": "2022-02-10T10:35:00+00:00",
+        "estimated": "2022-02-10T10:35:00+00:00",
+        "actual": "2022-02-10T10:30:00+00:00",
+        "estimated_runway": "2022-02-10T10:30:00+00:00",
+        "actual_runway": "2022-02-10T10:30:00+00:00"
+      },
+      "airline": {
+        "name": "LATAM Airlines",
+        "iata": "LA",
+        "icao": "LAN"
+      },
+      "flight": {
+        "number": "7032",
+        "iata": "LA7032",
+        "icao": "LAN7032",
+        "codeshared": {
+          "airline_name": "iberia express",
+          "airline_iata": "i2",
+          "airline_icao": "ibs",
+          "flight_number": "3947",
+          "flight_iata": "i23947",
+          "flight_icao": "ibs3947"
+        }
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2022-02-10",
+      "flight_status": "landed",
+      "departure": {
+        "airport": "Eurico Sales",
+        "timezone": "America/Sao_Paulo",
+        "iata": "VIX",
+        "icao": "SBVT",
+        "terminal": null,
+        "gate": "6",
+        "delay": 2,
+        "scheduled": "2022-02-10T06:00:00+00:00",
+        "estimated": "2022-02-10T06:00:00+00:00",
+        "actual": "2022-02-10T06:01:00+00:00",
+        "estimated_runway": "2022-02-10T06:01:00+00:00",
+        "actual_runway": "2022-02-10T06:01:00+00:00"
+      },
+      "arrival": {
+        "airport": "Congonhas International Airport",
+        "timezone": "America/Sao_Paulo",
+        "iata": "CGH",
+        "icao": "SBSP",
+        "terminal": "1",
+        "gate": "16",
+        "baggage": null,
+        "delay": null,
+        "scheduled": "2022-02-10T07:35:00+00:00",
+        "estimated": "2022-02-10T07:35:00+00:00",
+        "actual": "2022-02-10T07:25:00+00:00",
+        "estimated_runway": "2022-02-10T07:25:00+00:00",
+        "actual_runway": "2022-02-10T07:25:00+00:00"
+      },
+      "airline": {
+        "name": "LATAM Airlines",
+        "iata": "LA",
+        "icao": "LAN"
+      },
+      "flight": {
+        "number": "3746",
+        "iata": "LA3746",
+        "icao": "LAN3746",
+        "codeshared": null
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2022-02-10",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Cerro Moreno",
+        "timezone": "America/Santiago",
+        "iata": "ANF",
+        "icao": "SCFA",
+        "terminal": "1",
+        "gate": "3",
+        "delay": null,
+        "scheduled": "2022-02-10T05:53:00+00:00",
+        "estimated": "2022-02-10T05:53:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Cavancha",
+        "timezone": "America/Santiago",
+        "iata": "IQQ",
+        "icao": "SCDA",
+        "terminal": null,
+        "gate": null,
+        "baggage": null,
+        "delay": null,
+        "scheduled": "2022-02-10T06:47:00+00:00",
+        "estimated": "2022-02-10T06:47:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "LATAM Airlines",
+        "iata": "LA",
+        "icao": "LAN"
+      },
+      "flight": {
+        "number": "1296",
+        "iata": "LA1296",
+        "icao": "LAN1296",
+        "codeshared": null
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2022-02-10",
+      "flight_status": "landed",
+      "departure": {
+        "airport": "Bremen",
+        "timezone": "Europe/Berlin",
+        "iata": "BRE",
+        "icao": "EDDW",
+        "terminal": "1",
+        "gate": "A06",
+        "delay": 11,
+        "scheduled": "2022-02-10T10:35:00+00:00",
+        "estimated": "2022-02-10T10:35:00+00:00",
+        "actual": "2022-02-10T10:46:00+00:00",
+        "estimated_runway": "2022-02-10T10:46:00+00:00",
+        "actual_runway": "2022-02-10T10:46:00+00:00"
+      },
+      "arrival": {
+        "airport": "Frankfurt International Airport",
+        "timezone": "Europe/Berlin",
+        "iata": "FRA",
+        "icao": "EDDF",
+        "terminal": "1",
+        "gate": "A36",
+        "baggage": null,
+        "delay": null,
+        "scheduled": "2022-02-10T11:35:00+00:00",
+        "estimated": "2022-02-10T11:35:00+00:00",
+        "actual": "2022-02-10T11:26:00+00:00",
+        "estimated_runway": "2022-02-10T11:26:00+00:00",
+        "actual_runway": "2022-02-10T11:26:00+00:00"
+      },
+      "airline": {
+        "name": "LATAM Airlines",
+        "iata": "LA",
+        "icao": "LAN"
+      },
+      "flight": {
+        "number": "8675",
+        "iata": "LA8675",
+        "icao": "LAN8675",
+        "codeshared": {
+          "airline_name": "lufthansa",
+          "airline_iata": "lh",
+          "airline_icao": "dlh",
+          "flight_number": "355",
+          "flight_iata": "lh355",
+          "flight_icao": "dlh355"
+        }
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2022-02-10",
+      "flight_status": "landed",
+      "departure": {
+        "airport": "Presidente Juscelino Kubitschek",
+        "timezone": "America/Sao_Paulo",
+        "iata": "BSB",
+        "icao": "SBBR",
+        "terminal": "1",
+        "gate": "15",
+        "delay": 10,
+        "scheduled": "2022-02-10T07:00:00+00:00",
+        "estimated": "2022-02-10T07:00:00+00:00",
+        "actual": "2022-02-10T07:09:00+00:00",
+        "estimated_runway": "2022-02-10T07:09:00+00:00",
+        "actual_runway": "2022-02-10T07:09:00+00:00"
+      },
+      "arrival": {
+        "airport": "Pinto Martins",
+        "timezone": "America/Fortaleza",
+        "iata": "FOR",
+        "icao": "SBFZ",
+        "terminal": "2",
+        "gate": null,
+        "baggage": null,
+        "delay": null,
+        "scheduled": "2022-02-10T09:35:00+00:00",
+        "estimated": "2022-02-10T09:35:00+00:00",
+        "actual": "2022-02-10T09:22:00+00:00",
+        "estimated_runway": "2022-02-10T09:22:00+00:00",
+        "actual_runway": "2022-02-10T09:22:00+00:00"
+      },
+      "airline": {
+        "name": "LATAM Airlines",
+        "iata": "LA",
+        "icao": "LAN"
+      },
+      "flight": {
+        "number": "3412",
+        "iata": "LA3412",
+        "icao": "LAN3412",
+        "codeshared": null
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2022-02-10",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Frankfurt International Airport",
+        "timezone": "Europe/Berlin",
+        "iata": "FRA",
+        "icao": "EDDF",
+        "terminal": "1",
+        "gate": "A14",
+        "delay": 12,
+        "scheduled": "2022-02-10T21:30:00+00:00",
+        "estimated": "2022-02-10T21:30:00+00:00",
+        "actual": "2022-02-10T09:32:00+00:00",
+        "estimated_runway": "2022-02-10T09:32:00+00:00",
+        "actual_runway": "2022-02-10T09:32:00+00:00"
+      },
+      "arrival": {
+        "airport": "Düsseldorf International Airport",
+        "timezone": "Europe/Berlin",
+        "iata": "DUS",
+        "icao": "EDDL",
+        "terminal": "1",
+        "gate": "A50",
+        "baggage": "2",
+        "delay": null,
+        "scheduled": "2022-02-10T22:20:00+00:00",
+        "estimated": "2022-02-10T22:20:00+00:00",
+        "actual": "2022-02-10T10:02:00+00:00",
+        "estimated_runway": "2022-02-10T10:02:00+00:00",
+        "actual_runway": "2022-02-10T10:02:00+00:00"
+      },
+      "airline": {
+        "name": "LATAM Airlines",
+        "iata": "LA",
+        "icao": "LAN"
+      },
+      "flight": {
+        "number": "8672",
+        "iata": "LA8672",
+        "icao": "LAN8672",
+        "codeshared": {
+          "airline_name": "lufthansa",
+          "airline_iata": "lh",
+          "airline_icao": "dlh",
+          "flight_number": "88",
+          "flight_iata": "lh88",
+          "flight_icao": "dlh88"
+        }
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2022-02-10",
+      "flight_status": "active",
+      "departure": {
+        "airport": "Doha International",
+        "timezone": "Asia/Qatar",
+        "iata": "DOH",
+        "icao": "OTHH",
+        "terminal": null,
+        "gate": "A6",
+        "delay": 19,
+        "scheduled": "2022-02-10T19:25:00+00:00",
+        "estimated": "2022-02-10T19:25:00+00:00",
+        "actual": "2022-02-10T19:43:00+00:00",
+        "estimated_runway": "2022-02-10T19:43:00+00:00",
+        "actual_runway": "2022-02-10T19:43:00+00:00"
+      },
+      "arrival": {
+        "airport": "Queen Alia International",
+        "timezone": "Asia/Amman",
+        "iata": "AMM",
+        "icao": "OJAI",
+        "terminal": "MAIN",
+        "gate": "110",
+        "baggage": null,
+        "delay": null,
+        "scheduled": "2022-02-10T21:45:00+00:00",
+        "estimated": "2022-02-10T21:45:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "LATAM Airlines",
+        "iata": "LA",
+        "icao": "LAN"
+      },
+      "flight": {
+        "number": "5287",
+        "iata": "LA5287",
+        "icao": "LAN5287",
+        "codeshared": {
+          "airline_name": "qatar airways",
+          "airline_iata": "qr",
+          "airline_icao": "qtr",
+          "flight_number": "404",
+          "flight_iata": "qr404",
+          "flight_icao": "qtr404"
+        }
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2022-02-10",
+      "flight_status": "active",
+      "departure": {
+        "airport": "Barajas",
+        "timezone": "Europe/Madrid",
+        "iata": "MAD",
+        "icao": "LEMD",
+        "terminal": "4",
+        "gate": "H7",
+        "delay": null,
+        "scheduled": "2022-02-10T19:50:00+00:00",
+        "estimated": "2022-02-10T19:50:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Schiphol",
+        "timezone": "Europe/Amsterdam",
+        "iata": "AMS",
+        "icao": "EHAM",
+        "terminal": null,
+        "gate": null,
+        "baggage": null,
+        "delay": null,
+        "scheduled": "2022-02-10T22:25:00+00:00",
+        "estimated": "2022-02-10T22:25:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "LATAM Airlines",
+        "iata": "LA",
+        "icao": "LAN"
+      },
+      "flight": {
+        "number": "1602",
+        "iata": "LA1602",
+        "icao": "LAN1602",
+        "codeshared": {
+          "airline_name": "iberia",
+          "airline_iata": "ib",
+          "airline_icao": "ibe",
+          "flight_number": "3054",
+          "flight_iata": "ib3054",
+          "flight_icao": "ibe3054"
+        }
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2022-02-10",
+      "flight_status": "active",
+      "departure": {
+        "airport": "Hartsfield-jackson Atlanta International",
+        "timezone": "America/New_York",
+        "iata": "ATL",
+        "icao": "KATL",
+        "terminal": "S",
+        "gate": "B33",
+        "delay": 11,
+        "scheduled": "2022-02-10T08:44:00+00:00",
+        "estimated": "2022-02-10T08:44:00+00:00",
+        "actual": "2022-02-10T08:54:00+00:00",
+        "estimated_runway": "2022-02-10T08:54:00+00:00",
+        "actual_runway": "2022-02-10T08:54:00+00:00"
+      },
+      "arrival": {
+        "airport": "Los Angeles International",
+        "timezone": "America/Los_Angeles",
+        "iata": "LAX",
+        "icao": "KLAX",
+        "terminal": "2",
+        "gate": "22",
+        "baggage": null,
+        "delay": null,
+        "scheduled": "2022-02-10T10:53:00+00:00",
+        "estimated": "2022-02-10T10:53:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "LATAM Airlines",
+        "iata": "LA",
+        "icao": "LAN"
+      },
+      "flight": {
+        "number": "6298",
+        "iata": "LA6298",
+        "icao": "LAN6298",
+        "codeshared": {
+          "airline_name": "delta air lines",
+          "airline_iata": "dl",
+          "airline_icao": "dal",
+          "flight_number": "345",
+          "flight_iata": "dl345",
+          "flight_icao": "dal345"
+        }
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2022-02-10",
+      "flight_status": "landed",
+      "departure": {
+        "airport": "Hercilio Luz",
+        "timezone": "America/Sao_Paulo",
+        "iata": "FLN",
+        "icao": "SBFL",
+        "terminal": "1",
+        "gate": "7",
+        "delay": 9,
+        "scheduled": "2022-02-10T05:15:00+00:00",
+        "estimated": "2022-02-10T05:15:00+00:00",
+        "actual": "2022-02-10T05:23:00+00:00",
+        "estimated_runway": "2022-02-10T05:23:00+00:00",
+        "actual_runway": "2022-02-10T05:23:00+00:00"
+      },
+      "arrival": {
+        "airport": "Presidente Juscelino Kubitschek",
+        "timezone": "America/Sao_Paulo",
+        "iata": "BSB",
+        "icao": "SBBR",
+        "terminal": "1",
+        "gate": null,
+        "baggage": null,
+        "delay": null,
+        "scheduled": "2022-02-10T07:25:00+00:00",
+        "estimated": "2022-02-10T07:25:00+00:00",
+        "actual": "2022-02-10T07:14:00+00:00",
+        "estimated_runway": "2022-02-10T07:14:00+00:00",
+        "actual_runway": "2022-02-10T07:14:00+00:00"
+      },
+      "airline": {
+        "name": "LATAM Airlines",
+        "iata": "LA",
+        "icao": "LAN"
+      },
+      "flight": {
+        "number": "3431",
+        "iata": "LA3431",
+        "icao": "LAN3431",
+        "codeshared": null
+      },
+      "aircraft": {
+        "registration": "PT-XPQ",
+        "iata": "A321",
+        "icao": "A321",
+        "icao24": "E4925F"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2022-02-10",
+      "flight_status": "landed",
+      "departure": {
+        "airport": "Doha International",
+        "timezone": "Asia/Qatar",
+        "iata": "DOH",
+        "icao": "OTHH",
+        "terminal": null,
+        "gate": "B5",
+        "delay": 36,
+        "scheduled": "2022-02-10T01:55:00+00:00",
+        "estimated": "2022-02-10T01:55:00+00:00",
+        "actual": "2022-02-10T02:31:00+00:00",
+        "estimated_runway": "2022-02-10T02:31:00+00:00",
+        "actual_runway": "2022-02-10T02:31:00+00:00"
+      },
+      "arrival": {
+        "airport": "Seoul (Incheon)",
+        "timezone": "Asia/Seoul",
+        "iata": "ICN",
+        "icao": "RKSI",
+        "terminal": "1",
+        "gate": "46",
+        "baggage": "17",
+        "delay": null,
+        "scheduled": "2022-02-10T16:35:00+00:00",
+        "estimated": "2022-02-10T16:35:00+00:00",
+        "actual": "2022-02-10T16:30:00+00:00",
+        "estimated_runway": "2022-02-10T16:30:00+00:00",
+        "actual_runway": "2022-02-10T16:30:00+00:00"
+      },
+      "airline": {
+        "name": "LATAM Airlines",
+        "iata": "LA",
+        "icao": "LAN"
+      },
+      "flight": {
+        "number": "6036",
+        "iata": "LA6036",
+        "icao": "LAN6036",
+        "codeshared": {
+          "airline_name": "qatar airways",
+          "airline_iata": "qr",
+          "airline_icao": "qtr",
+          "flight_number": "858",
+          "flight_iata": "qr858",
+          "flight_icao": "qtr858"
+        }
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2022-02-10",
+      "flight_status": "landed",
+      "departure": {
+        "airport": "Doha International",
+        "timezone": "Asia/Qatar",
+        "iata": "DOH",
+        "icao": "OTHH",
+        "terminal": null,
+        "gate": "E23A",
+        "delay": 40,
+        "scheduled": "2022-02-10T07:40:00+00:00",
+        "estimated": "2022-02-10T07:40:00+00:00",
+        "actual": "2022-02-10T08:20:00+00:00",
+        "estimated_runway": "2022-02-10T08:20:00+00:00",
+        "actual_runway": "2022-02-10T08:20:00+00:00"
+      },
+      "arrival": {
+        "airport": "Beirut Rafic Hariri Airport",
+        "timezone": "Asia/Beirut",
+        "iata": "BEY",
+        "icao": "OLBA",
+        "terminal": "MAIN",
+        "gate": null,
+        "baggage": "3",
+        "delay": null,
+        "scheduled": "2022-02-10T11:05:00+00:00",
+        "estimated": "2022-02-10T11:05:00+00:00",
+        "actual": "2022-02-10T10:44:00+00:00",
+        "estimated_runway": "2022-02-10T10:44:00+00:00",
+        "actual_runway": "2022-02-10T10:44:00+00:00"
+      },
+      "airline": {
+        "name": "LATAM Airlines",
+        "iata": "LA",
+        "icao": "LAN"
+      },
+      "flight": {
+        "number": "7410",
+        "iata": "LA7410",
+        "icao": "LAN7410",
+        "codeshared": {
+          "airline_name": "qatar airways",
+          "airline_iata": "qr",
+          "airline_icao": "qtr",
+          "flight_number": "416",
+          "flight_iata": "qr416",
+          "flight_icao": "qtr416"
+        }
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2022-02-10",
+      "flight_status": "landed",
+      "departure": {
+        "airport": "Guararapes International",
+        "timezone": "America/Recife",
+        "iata": "REC",
+        "icao": "SBRF",
+        "terminal": "1",
+        "gate": "9",
+        "delay": 15,
+        "scheduled": "2022-02-10T11:30:00+00:00",
+        "estimated": "2022-02-10T11:30:00+00:00",
+        "actual": "2022-02-10T11:44:00+00:00",
+        "estimated_runway": "2022-02-10T11:44:00+00:00",
+        "actual_runway": "2022-02-10T11:44:00+00:00"
+      },
+      "arrival": {
+        "airport": "Aeroporto Internacional Guarulhos",
+        "timezone": "America/Sao_Paulo",
+        "iata": "GRU",
+        "icao": "SBGR",
+        "terminal": "2",
+        "gate": null,
+        "baggage": null,
+        "delay": null,
+        "scheduled": "2022-02-10T14:40:00+00:00",
+        "estimated": "2022-02-10T14:40:00+00:00",
+        "actual": "2022-02-10T14:30:00+00:00",
+        "estimated_runway": "2022-02-10T14:30:00+00:00",
+        "actual_runway": "2022-02-10T14:30:00+00:00"
+      },
+      "airline": {
+        "name": "LATAM Airlines",
+        "iata": "LA",
+        "icao": "LAN"
+      },
+      "flight": {
+        "number": "3139",
+        "iata": "LA3139",
+        "icao": "LAN3139",
+        "codeshared": null
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2022-02-10",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "El Plumerillo",
+        "timezone": "America/Argentina/Mendoza",
+        "iata": "MDZ",
+        "icao": "SAME",
+        "terminal": "1",
+        "gate": null,
+        "delay": null,
+        "scheduled": "2022-02-10T20:25:00+00:00",
+        "estimated": "2022-02-10T20:25:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Arturo Merino Benitez",
+        "timezone": "America/Santiago",
+        "iata": "SCL",
+        "icao": "SCEL",
+        "terminal": null,
+        "gate": null,
+        "baggage": null,
+        "delay": null,
+        "scheduled": "2022-02-10T21:25:00+00:00",
+        "estimated": "2022-02-10T21:25:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "LATAM Airlines",
+        "iata": "LA",
+        "icao": "LAN"
+      },
+      "flight": {
+        "number": "8019",
+        "iata": "LA8019",
+        "icao": "LAN8019",
+        "codeshared": null
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2022-02-10",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Internacional Benito Juarez",
+        "timezone": "America/Mexico_City",
+        "iata": "MEX",
+        "icao": "MMMX",
+        "terminal": "2",
+        "gate": "M",
+        "delay": null,
+        "scheduled": "2022-02-10T15:40:00+00:00",
+        "estimated": "2022-02-10T15:40:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Llano San Juan",
+        "timezone": "America/Mexico_City",
+        "iata": "TGZ",
+        "icao": "MMTG",
+        "terminal": "2",
+        "gate": null,
+        "baggage": null,
+        "delay": null,
+        "scheduled": "2022-02-10T17:15:00+00:00",
+        "estimated": "2022-02-10T17:15:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "LATAM Airlines",
+        "iata": "LA",
+        "icao": "LAN"
+      },
+      "flight": {
+        "number": "7566",
+        "iata": "LA7566",
+        "icao": "LAN7566",
+        "codeshared": {
+          "airline_name": "aeromexico connect",
+          "airline_iata": "5d",
+          "airline_icao": "sli",
+          "flight_number": "318",
+          "flight_iata": "5d318",
+          "flight_icao": "sli318"
+        }
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2022-02-10",
+      "flight_status": "active",
+      "departure": {
+        "airport": "John F Kennedy International",
+        "timezone": "America/New_York",
+        "iata": "JFK",
+        "icao": "KJFK",
+        "terminal": "4",
+        "gate": "B38",
+        "delay": 16,
+        "scheduled": "2022-02-10T08:10:00+00:00",
+        "estimated": "2022-02-10T08:10:00+00:00",
+        "actual": "2022-02-10T08:26:00+00:00",
+        "estimated_runway": "2022-02-10T08:26:00+00:00",
+        "actual_runway": "2022-02-10T08:26:00+00:00"
+      },
+      "arrival": {
+        "airport": "Mc Carran International",
+        "timezone": "America/Los_Angeles",
+        "iata": "LAS",
+        "icao": "KLAS",
+        "terminal": "1",
+        "gate": "D34",
+        "baggage": null,
+        "delay": null,
+        "scheduled": "2022-02-10T11:10:00+00:00",
+        "estimated": "2022-02-10T11:10:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "LATAM Airlines",
+        "iata": "LA",
+        "icao": "LAN"
+      },
+      "flight": {
+        "number": "6401",
+        "iata": "LA6401",
+        "icao": "LAN6401",
+        "codeshared": {
+          "airline_name": "delta air lines",
+          "airline_iata": "dl",
+          "airline_icao": "dal",
+          "flight_number": "1104",
+          "flight_iata": "dl1104",
+          "flight_icao": "dal1104"
+        }
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2022-02-10",
+      "flight_status": "landed",
+      "departure": {
+        "airport": "Santa Genoveva",
+        "timezone": "America/Sao_Paulo",
+        "iata": "GYN",
+        "icao": "SBGO",
+        "terminal": "1",
+        "gate": "4",
+        "delay": 8,
+        "scheduled": "2022-02-10T08:55:00+00:00",
+        "estimated": "2022-02-10T08:55:00+00:00",
+        "actual": "2022-02-10T09:02:00+00:00",
+        "estimated_runway": "2022-02-10T09:02:00+00:00",
+        "actual_runway": "2022-02-10T09:02:00+00:00"
+      },
+      "arrival": {
+        "airport": "Congonhas International Airport",
+        "timezone": "America/Sao_Paulo",
+        "iata": "CGH",
+        "icao": "SBSP",
+        "terminal": "1",
+        "gate": "03",
+        "baggage": null,
+        "delay": null,
+        "scheduled": "2022-02-10T10:35:00+00:00",
+        "estimated": "2022-02-10T10:35:00+00:00",
+        "actual": "2022-02-10T10:17:00+00:00",
+        "estimated_runway": "2022-02-10T10:17:00+00:00",
+        "actual_runway": "2022-02-10T10:17:00+00:00"
+      },
+      "airline": {
+        "name": "LATAM Airlines",
+        "iata": "LA",
+        "icao": "LAN"
+      },
+      "flight": {
+        "number": "3839",
+        "iata": "LA3839",
+        "icao": "LAN3839",
+        "codeshared": null
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2022-02-10",
+      "flight_status": "landed",
+      "departure": {
+        "airport": "Jose Joaquin De Olmedo",
+        "timezone": "America/Guayaquil",
+        "iata": "GYE",
+        "icao": "SEGU",
+        "terminal": "1",
+        "gate": "2",
+        "delay": 5,
+        "scheduled": "2022-02-10T06:27:00+00:00",
+        "estimated": "2022-02-10T06:27:00+00:00",
+        "actual": "2022-02-10T06:32:00+00:00",
+        "estimated_runway": "2022-02-10T06:32:00+00:00",
+        "actual_runway": "2022-02-10T06:32:00+00:00"
+      },
+      "arrival": {
+        "airport": "Mariscal Sucre",
+        "timezone": "America/Guayaquil",
+        "iata": "UIO",
+        "icao": "SEQM",
+        "terminal": null,
+        "gate": null,
+        "baggage": null,
+        "delay": null,
+        "scheduled": "2022-02-10T07:17:00+00:00",
+        "estimated": "2022-02-10T07:17:00+00:00",
+        "actual": "2022-02-10T07:06:00+00:00",
+        "estimated_runway": "2022-02-10T07:06:00+00:00",
+        "actual_runway": "2022-02-10T07:06:00+00:00"
+      },
+      "airline": {
+        "name": "LATAM Airlines",
+        "iata": "LA",
+        "icao": "LAN"
+      },
+      "flight": {
+        "number": "1362",
+        "iata": "LA1362",
+        "icao": "LAN1362",
+        "codeshared": null
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2022-02-10",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Miami International Airport",
+        "timezone": "America/New_York",
+        "iata": "MIA",
+        "icao": "KMIA",
+        "terminal": "S",
+        "gate": "J17",
+        "delay": 9,
+        "scheduled": "2022-02-10T08:00:00+00:00",
+        "estimated": "2022-02-10T08:00:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Aeroporto Internacional Guarulhos",
+        "timezone": "America/Sao_Paulo",
+        "iata": "GRU",
+        "icao": "SBGR",
+        "terminal": "3",
+        "gate": null,
+        "baggage": null,
+        "delay": null,
+        "scheduled": "2022-02-10T18:15:00+00:00",
+        "estimated": "2022-02-10T18:15:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "LATAM Airlines",
+        "iata": "LA",
+        "icao": "LAN"
+      },
+      "flight": {
+        "number": "8193",
+        "iata": "LA8193",
+        "icao": "LAN8193",
+        "codeshared": null
+      },
+      "aircraft": {
+        "registration": "PT-MUJ",
+        "iata": "B77W",
+        "icao": "B77W",
+        "icao24": "E48DF5"
+      },
+      "live": {
+        "updated": "2022-02-10T15:05:34+00:00",
+        "latitude": 18.21,
+        "longitude": -66.86,
+        "altitude": 10668,
+        "direction": 140.66,
+        "speed_horizontal": 955.404,
+        "speed_vertical": 0,
+        "is_ground": false
+      }
+    },
+    {
+      "flight_date": "2022-02-10",
+      "flight_status": "landed",
+      "departure": {
+        "airport": "Miami International Airport",
+        "timezone": "America/New_York",
+        "iata": "MIA",
+        "icao": "KMIA",
+        "terminal": "S",
+        "gate": "H9",
+        "delay": 11,
+        "scheduled": "2022-02-10T07:35:00+00:00",
+        "estimated": "2022-02-10T07:35:00+00:00",
+        "actual": "2022-02-10T07:45:00+00:00",
+        "estimated_runway": "2022-02-10T07:45:00+00:00",
+        "actual_runway": "2022-02-10T07:45:00+00:00"
+      },
+      "arrival": {
+        "airport": "Minneapolis - St. Paul International",
+        "timezone": "America/Chicago",
+        "iata": "MSP",
+        "icao": "KMSP",
+        "terminal": "1",
+        "gate": "C1",
+        "baggage": "7",
+        "delay": null,
+        "scheduled": "2022-02-10T10:26:00+00:00",
+        "estimated": "2022-02-10T10:26:00+00:00",
+        "actual": "2022-02-10T10:06:00+00:00",
+        "estimated_runway": "2022-02-10T10:06:00+00:00",
+        "actual_runway": "2022-02-10T10:06:00+00:00"
+      },
+      "airline": {
+        "name": "LATAM Airlines",
+        "iata": "LA",
+        "icao": "LAN"
+      },
+      "flight": {
+        "number": "6246",
+        "iata": "LA6246",
+        "icao": "LAN6246",
+        "codeshared": {
+          "airline_name": "delta air lines",
+          "airline_iata": "dl",
+          "airline_icao": "dal",
+          "flight_number": "2527",
+          "flight_iata": "dl2527",
+          "flight_icao": "dal2527"
+        }
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2022-02-10",
+      "flight_status": "landed",
+      "departure": {
+        "airport": "Salgado Filho",
+        "timezone": "America/Sao_Paulo",
+        "iata": "POA",
+        "icao": "SBPA",
+        "terminal": "1",
+        "gate": "122",
+        "delay": 3,
+        "scheduled": "2022-02-10T05:25:00+00:00",
+        "estimated": "2022-02-10T05:25:00+00:00",
+        "actual": "2022-02-10T05:27:00+00:00",
+        "estimated_runway": "2022-02-10T05:27:00+00:00",
+        "actual_runway": "2022-02-10T05:27:00+00:00"
+      },
+      "arrival": {
+        "airport": "Presidente Juscelino Kubitschek",
+        "timezone": "America/Sao_Paulo",
+        "iata": "BSB",
+        "icao": "SBBR",
+        "terminal": "2",
+        "gate": null,
+        "baggage": null,
+        "delay": null,
+        "scheduled": "2022-02-10T08:00:00+00:00",
+        "estimated": "2022-02-10T08:00:00+00:00",
+        "actual": "2022-02-10T07:42:00+00:00",
+        "estimated_runway": "2022-02-10T07:42:00+00:00",
+        "actual_runway": "2022-02-10T07:42:00+00:00"
+      },
+      "airline": {
+        "name": "LATAM Airlines",
+        "iata": "LA",
+        "icao": "LAN"
+      },
+      "flight": {
+        "number": "3086",
+        "iata": "LA3086",
+        "icao": "LAN3086",
+        "codeshared": null
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2022-02-10",
+      "flight_status": "landed",
+      "departure": {
+        "airport": "Pablo Ruiz Picasso",
+        "timezone": "Europe/Madrid",
+        "iata": "AGP",
+        "icao": "LEMG",
+        "terminal": null,
+        "gate": null,
+        "delay": 9,
+        "scheduled": "2022-02-10T09:15:00+00:00",
+        "estimated": "2022-02-10T09:15:00+00:00",
+        "actual": "2022-02-10T09:23:00+00:00",
+        "estimated_runway": "2022-02-10T09:23:00+00:00",
+        "actual_runway": "2022-02-10T09:23:00+00:00"
+      },
+      "arrival": {
+        "airport": "Barajas",
+        "timezone": "Europe/Madrid",
+        "iata": "MAD",
+        "icao": "LEMD",
+        "terminal": "4",
+        "gate": null,
+        "baggage": "14",
+        "delay": null,
+        "scheduled": "2022-02-10T10:30:00+00:00",
+        "estimated": "2022-02-10T10:30:00+00:00",
+        "actual": "2022-02-10T10:13:00+00:00",
+        "estimated_runway": "2022-02-10T10:13:00+00:00",
+        "actual_runway": "2022-02-10T10:13:00+00:00"
+      },
+      "airline": {
+        "name": "LATAM Airlines",
+        "iata": "LA",
+        "icao": "LAN"
+      },
+      "flight": {
+        "number": "5405",
+        "iata": "LA5405",
+        "icao": "LAN5405",
+        "codeshared": {
+          "airline_name": "iberia express",
+          "airline_iata": "i2",
+          "airline_icao": "ibs",
+          "flight_number": "3865",
+          "flight_iata": "i23865",
+          "flight_icao": "ibs3865"
+        }
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2022-02-10",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Internacional Benito Juarez",
+        "timezone": "America/Mexico_City",
+        "iata": "MEX",
+        "icao": "MMMX",
+        "terminal": "1",
+        "gate": "1",
+        "delay": 1,
+        "scheduled": "2022-02-10T11:25:00+00:00",
+        "estimated": "2022-02-10T11:25:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Internacional",
+        "timezone": "America/Mexico_City",
+        "iata": "ZIH",
+        "icao": "MMZH",
+        "terminal": "A",
+        "gate": null,
+        "baggage": null,
+        "delay": null,
+        "scheduled": "2022-02-10T12:29:00+00:00",
+        "estimated": "2022-02-10T12:29:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "LATAM Airlines",
+        "iata": "LA",
+        "icao": "LAN"
+      },
+      "flight": {
+        "number": "7550",
+        "iata": "LA7550",
+        "icao": "LAN7550",
+        "codeshared": {
+          "airline_name": "aeromexico connect",
+          "airline_iata": "5d",
+          "airline_icao": "sli",
+          "flight_number": "2458",
+          "flight_iata": "5d2458",
+          "flight_icao": "sli2458"
+        }
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2022-02-10",
+      "flight_status": "landed",
+      "departure": {
+        "airport": "Internacional Benito Juarez",
+        "timezone": "America/Mexico_City",
+        "iata": "MEX",
+        "icao": "MMMX",
+        "terminal": "2",
+        "gate": "60",
+        "delay": 23,
+        "scheduled": "2022-02-10T08:00:00+00:00",
+        "estimated": "2022-02-10T08:00:00+00:00",
+        "actual": "2022-02-10T08:22:00+00:00",
+        "estimated_runway": "2022-02-10T08:22:00+00:00",
+        "actual_runway": "2022-02-10T08:22:00+00:00"
+      },
+      "arrival": {
+        "airport": "Don Miguel Hidalgo y Costilla International",
+        "timezone": "America/Mexico_City",
+        "iata": "GDL",
+        "icao": "MMGL",
+        "terminal": "1",
+        "gate": null,
+        "baggage": null,
+        "delay": 4,
+        "scheduled": "2022-02-10T09:18:00+00:00",
+        "estimated": "2022-02-10T09:18:00+00:00",
+        "actual": "2022-02-10T09:17:00+00:00",
+        "estimated_runway": "2022-02-10T09:17:00+00:00",
+        "actual_runway": "2022-02-10T09:17:00+00:00"
+      },
+      "airline": {
+        "name": "LATAM Airlines",
+        "iata": "LA",
+        "icao": "LAN"
+      },
+      "flight": {
+        "number": "7523",
+        "iata": "LA7523",
+        "icao": "LAN7523",
+        "codeshared": {
+          "airline_name": "aeromexico",
+          "airline_iata": "am",
+          "airline_icao": "amx",
+          "flight_number": "208",
+          "flight_iata": "am208",
+          "flight_icao": "amx208"
+        }
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2022-02-10",
+      "flight_status": "landed",
+      "departure": {
+        "airport": "Eduardo Gomes",
+        "timezone": "America/Santarem",
+        "iata": "STM",
+        "icao": "SBSN",
+        "terminal": "1",
+        "gate": "1",
+        "delay": 5,
+        "scheduled": "2022-02-10T12:15:00+00:00",
+        "estimated": "2022-02-10T12:15:00+00:00",
+        "actual": "2022-02-10T12:19:00+00:00",
+        "estimated_runway": "2022-02-10T12:19:00+00:00",
+        "actual_runway": "2022-02-10T12:19:00+00:00"
+      },
+      "arrival": {
+        "airport": "Presidente Juscelino Kubitschek",
+        "timezone": "America/Sao_Paulo",
+        "iata": "BSB",
+        "icao": "SBBR",
+        "terminal": "2",
+        "gate": null,
+        "baggage": null,
+        "delay": null,
+        "scheduled": "2022-02-10T14:55:00+00:00",
+        "estimated": "2022-02-10T14:55:00+00:00",
+        "actual": "2022-02-10T14:35:00+00:00",
+        "estimated_runway": "2022-02-10T14:35:00+00:00",
+        "actual_runway": "2022-02-10T14:35:00+00:00"
+      },
+      "airline": {
+        "name": "LATAM Airlines",
+        "iata": "LA",
+        "icao": "LAN"
+      },
+      "flight": {
+        "number": "3081",
+        "iata": "LA3081",
+        "icao": "LAN3081",
+        "codeshared": null
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2022-02-10",
+      "flight_status": "active",
+      "departure": {
+        "airport": "El Nuevo Dorado International",
+        "timezone": "America/Bogota",
+        "iata": "BOG",
+        "icao": "SKBO",
+        "terminal": "1",
+        "gate": "20",
+        "delay": 32,
+        "scheduled": "2022-02-10T05:15:00+00:00",
+        "estimated": "2022-02-10T05:15:00+00:00",
+        "actual": "2022-02-10T05:47:00+00:00",
+        "estimated_runway": "2022-02-10T05:47:00+00:00",
+        "actual_runway": "2022-02-10T05:47:00+00:00"
+      },
+      "arrival": {
+        "airport": "E Cortissoz",
+        "timezone": "America/Bogota",
+        "iata": "BAQ",
+        "icao": "SKBQ",
+        "terminal": "1",
+        "gate": null,
+        "baggage": "08",
+        "delay": null,
+        "scheduled": "2022-02-10T06:45:00+00:00",
+        "estimated": "2022-02-10T06:45:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "LATAM Airlines",
+        "iata": "LA",
+        "icao": "LAN"
+      },
+      "flight": {
+        "number": "4120",
+        "iata": "LA4120",
+        "icao": "LAN4120",
+        "codeshared": null
+      },
+      "aircraft": {
+        "registration": "CC-CQN",
+        "iata": "A320",
+        "icao": "A320",
+        "icao24": "E80219"
+      },
+      "live": {
+        "updated": "2022-02-10T10:31:32+00:00",
+        "latitude": 4.7,
+        "longitude": -74.13,
+        "altitude": 0,
+        "direction": 129,
+        "speed_horizontal": 35.188,
+        "speed_vertical": 0,
+        "is_ground": true
+      }
+    },
+    {
+      "flight_date": "2022-02-10",
+      "flight_status": "active",
+      "departure": {
+        "airport": "Frankfurt International Airport",
+        "timezone": "Europe/Berlin",
+        "iata": "FRA",
+        "icao": "EDDF",
+        "terminal": "2",
+        "gate": "D25",
+        "delay": null,
+        "scheduled": "2022-02-10T19:30:00+00:00",
+        "estimated": "2022-02-10T19:30:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Barajas",
+        "timezone": "Europe/Madrid",
+        "iata": "MAD",
+        "icao": "LEMD",
+        "terminal": "4",
+        "gate": null,
+        "baggage": "17",
+        "delay": null,
+        "scheduled": "2022-02-10T22:20:00+00:00",
+        "estimated": "2022-02-10T22:20:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "LATAM Airlines",
+        "iata": "LA",
+        "icao": "LAN"
+      },
+      "flight": {
+        "number": "1705",
+        "iata": "LA1705",
+        "icao": "LAN1705",
+        "codeshared": {
+          "airline_name": "iberia",
+          "airline_iata": "ib",
+          "airline_icao": "ibe",
+          "flight_number": "8711",
+          "flight_iata": "ib8711",
+          "flight_icao": "ibe8711"
+        }
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2022-02-10",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Orlando International",
+        "timezone": "America/New_York",
+        "iata": "MCO",
+        "icao": "KMCO",
+        "terminal": null,
+        "gate": "77",
+        "delay": 4,
+        "scheduled": "2022-02-10T15:15:00+00:00",
+        "estimated": "2022-02-10T15:15:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Los Angeles International",
+        "timezone": "America/Los_Angeles",
+        "iata": "LAX",
+        "icao": "KLAX",
+        "terminal": "2",
+        "gate": "23B",
+        "baggage": "8",
+        "delay": null,
+        "scheduled": "2022-02-10T17:50:00+00:00",
+        "estimated": "2022-02-10T17:50:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "LATAM Airlines",
+        "iata": "LA",
+        "icao": "LAN"
+      },
+      "flight": {
+        "number": "6208",
+        "iata": "LA6208",
+        "icao": "LAN6208",
+        "codeshared": {
+          "airline_name": "delta air lines",
+          "airline_iata": "dl",
+          "airline_icao": "dal",
+          "flight_number": "703",
+          "flight_iata": "dl703",
+          "flight_icao": "dal703"
+        }
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2022-02-10",
+      "flight_status": "landed",
+      "departure": {
+        "airport": "Jorge Chavez International",
+        "timezone": "America/Lima",
+        "iata": "LIM",
+        "icao": "SPJC",
+        "terminal": null,
+        "gate": "B1",
+        "delay": 2,
+        "scheduled": "2022-02-10T07:50:00+00:00",
+        "estimated": "2022-02-10T07:50:00+00:00",
+        "actual": "2022-02-10T07:51:00+00:00",
+        "estimated_runway": "2022-02-10T07:51:00+00:00",
+        "actual_runway": "2022-02-10T07:51:00+00:00"
+      },
+      "arrival": {
+        "airport": "Tumbes",
+        "timezone": "America/Lima",
+        "iata": "TBP",
+        "icao": "SPME",
+        "terminal": null,
+        "gate": null,
+        "baggage": null,
+        "delay": null,
+        "scheduled": "2022-02-10T09:43:00+00:00",
+        "estimated": "2022-02-10T09:43:00+00:00",
+        "actual": "2022-02-10T09:18:00+00:00",
+        "estimated_runway": "2022-02-10T09:18:00+00:00",
+        "actual_runway": "2022-02-10T09:18:00+00:00"
+      },
+      "airline": {
+        "name": "LATAM Airlines",
+        "iata": "LA",
+        "icao": "LAN"
+      },
+      "flight": {
+        "number": "2332",
+        "iata": "LA2332",
+        "icao": "LAN2332",
+        "codeshared": null
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2022-02-10",
+      "flight_status": "landed",
+      "departure": {
+        "airport": "Jorge Chavez International",
+        "timezone": "America/Lima",
+        "iata": "LIM",
+        "icao": "SPJC",
+        "terminal": null,
+        "gate": "16",
+        "delay": 6,
+        "scheduled": "2022-02-10T07:40:00+00:00",
+        "estimated": "2022-02-10T07:40:00+00:00",
+        "actual": "2022-02-10T07:46:00+00:00",
+        "estimated_runway": "2022-02-10T07:46:00+00:00",
+        "actual_runway": "2022-02-10T07:46:00+00:00"
+      },
+      "arrival": {
+        "airport": "Velazco Astete",
+        "timezone": "America/Lima",
+        "iata": "CUZ",
+        "icao": "SPZO",
+        "terminal": "1",
+        "gate": null,
+        "baggage": null,
+        "delay": null,
+        "scheduled": "2022-02-10T08:55:00+00:00",
+        "estimated": "2022-02-10T08:55:00+00:00",
+        "actual": "2022-02-10T08:45:00+00:00",
+        "estimated_runway": "2022-02-10T08:45:00+00:00",
+        "actual_runway": "2022-02-10T08:45:00+00:00"
+      },
+      "airline": {
+        "name": "LATAM Airlines",
+        "iata": "LA",
+        "icao": "LAN"
+      },
+      "flight": {
+        "number": "2019",
+        "iata": "LA2019",
+        "icao": "LAN2019",
+        "codeshared": null
+      },
+      "aircraft": {
+        "registration": "CC-BFO",
+        "iata": "A320",
+        "icao": "A320",
+        "icao24": "E80272"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2022-02-10",
+      "flight_status": "landed",
+      "departure": {
+        "airport": "Tancredo Neves International Airport",
+        "timezone": "America/Sao_Paulo",
+        "iata": "CNF",
+        "icao": "SBCF",
+        "terminal": "1",
+        "gate": "29",
+        "delay": null,
+        "scheduled": "2022-02-10T08:35:00+00:00",
+        "estimated": "2022-02-10T08:35:00+00:00",
+        "actual": "2022-02-10T08:33:00+00:00",
+        "estimated_runway": "2022-02-10T08:33:00+00:00",
+        "actual_runway": "2022-02-10T08:33:00+00:00"
+      },
+      "arrival": {
+        "airport": "Congonhas International Airport",
+        "timezone": "America/Sao_Paulo",
+        "iata": "CGH",
+        "icao": "SBSP",
+        "terminal": "1",
+        "gate": "11",
+        "baggage": null,
+        "delay": null,
+        "scheduled": "2022-02-10T09:55:00+00:00",
+        "estimated": "2022-02-10T09:55:00+00:00",
+        "actual": "2022-02-10T09:34:00+00:00",
+        "estimated_runway": "2022-02-10T09:34:00+00:00",
+        "actual_runway": "2022-02-10T09:34:00+00:00"
+      },
+      "airline": {
+        "name": "LATAM Airlines",
+        "iata": "LA",
+        "icao": "LAN"
+      },
+      "flight": {
+        "number": "3213",
+        "iata": "LA3213",
+        "icao": "LAN3213",
+        "codeshared": null
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2022-02-10",
+      "flight_status": "active",
+      "departure": {
+        "airport": "Düsseldorf International Airport",
+        "timezone": "Europe/Berlin",
+        "iata": "DUS",
+        "icao": "EDDL",
+        "terminal": null,
+        "gate": "A26",
+        "delay": 2,
+        "scheduled": "2022-02-10T14:40:00+00:00",
+        "estimated": "2022-02-10T14:40:00+00:00",
+        "actual": "2022-02-10T14:42:00+00:00",
+        "estimated_runway": "2022-02-10T14:42:00+00:00",
+        "actual_runway": "2022-02-10T14:42:00+00:00"
+      },
+      "arrival": {
+        "airport": "Frankfurt International Airport",
+        "timezone": "Europe/Berlin",
+        "iata": "FRA",
+        "icao": "EDDF",
+        "terminal": "1",
+        "gate": null,
+        "baggage": null,
+        "delay": null,
+        "scheduled": "2022-02-10T15:30:00+00:00",
+        "estimated": "2022-02-10T15:30:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "LATAM Airlines",
+        "iata": "LA",
+        "icao": "LAN"
+      },
+      "flight": {
+        "number": "8673",
+        "iata": "LA8673",
+        "icao": "LAN8673",
+        "codeshared": {
+          "airline_name": "lufthansa",
+          "airline_iata": "lh",
+          "airline_icao": "dlh",
+          "flight_number": "75",
+          "flight_iata": "lh75",
+          "flight_icao": "dlh75"
+        }
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2022-02-10",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Chamonate",
+        "timezone": "America/Santiago",
+        "iata": "CPO",
+        "icao": "SCAT",
+        "terminal": "1",
+        "gate": "1",
+        "delay": 120,
+        "scheduled": "2022-02-10T09:34:00+00:00",
+        "estimated": "2022-02-10T09:34:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Arturo Merino Benitez",
+        "timezone": "America/Santiago",
+        "iata": "SCL",
+        "icao": "SCEL",
+        "terminal": "2",
+        "gate": null,
+        "baggage": "1",
+        "delay": null,
+        "scheduled": "2022-02-10T10:48:00+00:00",
+        "estimated": "2022-02-10T10:48:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "LATAM Airlines",
+        "iata": "LA",
+        "icao": "LAN"
+      },
+      "flight": {
+        "number": "115",
+        "iata": "LA115",
+        "icao": "LAN115",
+        "codeshared": null
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2022-02-10",
+      "flight_status": "landed",
+      "departure": {
+        "airport": "Hartsfield-jackson Atlanta International",
+        "timezone": "America/New_York",
+        "iata": "ATL",
+        "icao": "KATL",
+        "terminal": "S",
+        "gate": "A7",
+        "delay": 10,
+        "scheduled": "2022-02-10T09:10:00+00:00",
+        "estimated": "2022-02-10T09:10:00+00:00",
+        "actual": "2022-02-10T09:19:00+00:00",
+        "estimated_runway": "2022-02-10T09:19:00+00:00",
+        "actual_runway": "2022-02-10T09:19:00+00:00"
+      },
+      "arrival": {
+        "airport": "Ronald Reagan Washington National Airport",
+        "timezone": "America/New_York",
+        "iata": "DCA",
+        "icao": "KDCA",
+        "terminal": "B",
+        "gate": "19",
+        "baggage": null,
+        "delay": null,
+        "scheduled": "2022-02-10T10:48:00+00:00",
+        "estimated": "2022-02-10T10:48:00+00:00",
+        "actual": "2022-02-10T10:39:00+00:00",
+        "estimated_runway": "2022-02-10T10:39:00+00:00",
+        "actual_runway": "2022-02-10T10:39:00+00:00"
+      },
+      "airline": {
+        "name": "LATAM Airlines",
+        "iata": "LA",
+        "icao": "LAN"
+      },
+      "flight": {
+        "number": "6333",
+        "iata": "LA6333",
+        "icao": "LAN6333",
+        "codeshared": {
+          "airline_name": "delta air lines",
+          "airline_iata": "dl",
+          "airline_icao": "dal",
+          "flight_number": "538",
+          "flight_iata": "dl538",
+          "flight_icao": "dal538"
+        }
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2022-02-10",
+      "flight_status": "landed",
+      "departure": {
+        "airport": "John F Kennedy International",
+        "timezone": "America/New_York",
+        "iata": "JFK",
+        "icao": "KJFK",
+        "terminal": "2",
+        "gate": "C67",
+        "delay": 13,
+        "scheduled": "2022-02-10T09:20:00+00:00",
+        "estimated": "2022-02-10T09:20:00+00:00",
+        "actual": "2022-02-10T09:32:00+00:00",
+        "estimated_runway": "2022-02-10T09:32:00+00:00",
+        "actual_runway": "2022-02-10T09:32:00+00:00"
+      },
+      "arrival": {
+        "airport": "Ronald Reagan Washington National Airport",
+        "timezone": "America/New_York",
+        "iata": "DCA",
+        "icao": "KDCA",
+        "terminal": "B",
+        "gate": "15",
+        "baggage": null,
+        "delay": null,
+        "scheduled": "2022-02-10T10:48:00+00:00",
+        "estimated": "2022-02-10T10:48:00+00:00",
+        "actual": "2022-02-10T10:31:00+00:00",
+        "estimated_runway": "2022-02-10T10:31:00+00:00",
+        "actual_runway": "2022-02-10T10:31:00+00:00"
+      },
+      "airline": {
+        "name": "LATAM Airlines",
+        "iata": "LA",
+        "icao": "LAN"
+      },
+      "flight": {
+        "number": "6144",
+        "iata": "LA6144",
+        "icao": "LAN6144",
+        "codeshared": {
+          "airline_name": "delta air lines",
+          "airline_iata": "dl",
+          "airline_icao": "dal",
+          "flight_number": "5668",
+          "flight_iata": "dl5668",
+          "flight_icao": "dal5668"
+        }
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2022-02-10",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "El Loa",
+        "timezone": "America/Santiago",
+        "iata": "CJC",
+        "icao": "SCCF",
+        "terminal": "1",
+        "gate": "3",
+        "delay": null,
+        "scheduled": "2022-02-10T14:14:00+00:00",
+        "estimated": "2022-02-10T14:14:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Arturo Merino Benitez",
+        "timezone": "America/Santiago",
+        "iata": "SCL",
+        "icao": "SCEL",
+        "terminal": "2",
+        "gate": null,
+        "baggage": null,
+        "delay": null,
+        "scheduled": "2022-02-10T16:15:00+00:00",
+        "estimated": "2022-02-10T16:15:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "LATAM Airlines",
+        "iata": "LA",
+        "icao": "LAN"
+      },
+      "flight": {
+        "number": "341",
+        "iata": "LA341",
+        "icao": "LAN341",
+        "codeshared": null
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2022-02-10",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Charlotte Douglas",
+        "timezone": "America/New_York",
+        "iata": "CLT",
+        "icao": "KCLT",
+        "terminal": null,
+        "gate": "A9",
+        "delay": 36,
+        "scheduled": "2022-02-10T16:35:00+00:00",
+        "estimated": "2022-02-10T16:35:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "John F Kennedy International",
+        "timezone": "America/New_York",
+        "iata": "JFK",
+        "icao": "KJFK",
+        "terminal": "2",
+        "gate": "C68",
+        "baggage": "F",
+        "delay": null,
+        "scheduled": "2022-02-10T18:36:00+00:00",
+        "estimated": "2022-02-10T18:36:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "LATAM Airlines",
+        "iata": "LA",
+        "icao": "LAN"
+      },
+      "flight": {
+        "number": "6162",
+        "iata": "LA6162",
+        "icao": "LAN6162",
+        "codeshared": {
+          "airline_name": "delta air lines",
+          "airline_iata": "dl",
+          "airline_icao": "dal",
+          "flight_number": "5660",
+          "flight_iata": "dl5660",
+          "flight_icao": "dal5660"
+        }
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2022-02-10",
+      "flight_status": "landed",
+      "departure": {
+        "airport": "Granada",
+        "timezone": "Europe/Madrid",
+        "iata": "GRX",
+        "icao": "LEGR",
+        "terminal": "T1",
+        "gate": "2",
+        "delay": 2,
+        "scheduled": "2022-02-10T13:40:00+00:00",
+        "estimated": "2022-02-10T13:40:00+00:00",
+        "actual": "2022-02-10T13:42:00+00:00",
+        "estimated_runway": "2022-02-10T13:42:00+00:00",
+        "actual_runway": "2022-02-10T13:42:00+00:00"
+      },
+      "arrival": {
+        "airport": "Barajas",
+        "timezone": "Europe/Madrid",
+        "iata": "MAD",
+        "icao": "LEMD",
+        "terminal": "4",
+        "gate": null,
+        "baggage": "17",
+        "delay": null,
+        "scheduled": "2022-02-10T14:50:00+00:00",
+        "estimated": "2022-02-10T14:50:00+00:00",
+        "actual": "2022-02-10T14:25:00+00:00",
+        "estimated_runway": "2022-02-10T14:25:00+00:00",
+        "actual_runway": "2022-02-10T14:25:00+00:00"
+      },
+      "airline": {
+        "name": "LATAM Airlines",
+        "iata": "LA",
+        "icao": "LAN"
+      },
+      "flight": {
+        "number": "1593",
+        "iata": "LA1593",
+        "icao": "LAN1593",
+        "codeshared": {
+          "airline_name": "iberia",
+          "airline_iata": "ib",
+          "airline_icao": "ibe",
+          "flight_number": "8933",
+          "flight_iata": "ib8933",
+          "flight_icao": "ibe8933"
+        }
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2022-02-10",
+      "flight_status": "landed",
+      "departure": {
+        "airport": "Findel",
+        "timezone": "Europe/Luxembourg",
+        "iata": "LUX",
+        "icao": "ELLX",
+        "terminal": null,
+        "gate": null,
+        "delay": 28,
+        "scheduled": "2022-02-10T14:05:00+00:00",
+        "estimated": "2022-02-10T14:05:00+00:00",
+        "actual": "2022-02-10T14:32:00+00:00",
+        "estimated_runway": "2022-02-10T14:32:00+00:00",
+        "actual_runway": "2022-02-10T14:32:00+00:00"
+      },
+      "arrival": {
+        "airport": "Frankfurt International Airport",
+        "timezone": "Europe/Berlin",
+        "iata": "FRA",
+        "icao": "EDDF",
+        "terminal": "1",
+        "gate": "A22",
+        "baggage": null,
+        "delay": 10,
+        "scheduled": "2022-02-10T14:55:00+00:00",
+        "estimated": "2022-02-10T14:55:00+00:00",
+        "actual": "2022-02-10T15:05:00+00:00",
+        "estimated_runway": "2022-02-10T15:05:00+00:00",
+        "actual_runway": "2022-02-10T15:05:00+00:00"
+      },
+      "airline": {
+        "name": "LATAM Airlines",
+        "iata": "LA",
+        "icao": "LAN"
+      },
+      "flight": {
+        "number": "8707",
+        "iata": "LA8707",
+        "icao": "LAN8707",
+        "codeshared": {
+          "airline_name": "lufthansa",
+          "airline_iata": "lh",
+          "airline_icao": "dlh",
+          "flight_number": "397",
+          "flight_iata": "lh397",
+          "flight_icao": "dlh397"
+        }
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2022-02-10",
+      "flight_status": "landed",
+      "departure": {
+        "airport": "Bilbao",
+        "timezone": "Europe/Madrid",
+        "iata": "BIO",
+        "icao": "LEBB",
+        "terminal": null,
+        "gate": null,
+        "delay": 5,
+        "scheduled": "2022-02-10T13:45:00+00:00",
+        "estimated": "2022-02-10T13:45:00+00:00",
+        "actual": "2022-02-10T13:49:00+00:00",
+        "estimated_runway": "2022-02-10T13:49:00+00:00",
+        "actual_runway": "2022-02-10T13:49:00+00:00"
+      },
+      "arrival": {
+        "airport": "Barajas",
+        "timezone": "Europe/Madrid",
+        "iata": "MAD",
+        "icao": "LEMD",
+        "terminal": "4",
+        "gate": null,
+        "baggage": "18",
+        "delay": null,
+        "scheduled": "2022-02-10T14:55:00+00:00",
+        "estimated": "2022-02-10T14:55:00+00:00",
+        "actual": "2022-02-10T14:38:00+00:00",
+        "estimated_runway": "2022-02-10T14:38:00+00:00",
+        "actual_runway": "2022-02-10T14:38:00+00:00"
+      },
+      "airline": {
+        "name": "LATAM Airlines",
+        "iata": "LA",
+        "icao": "LAN"
+      },
+      "flight": {
+        "number": "5397",
+        "iata": "LA5397",
+        "icao": "LAN5397",
+        "codeshared": {
+          "airline_name": "iberia",
+          "airline_iata": "ib",
+          "airline_icao": "ibe",
+          "flight_number": "447",
+          "flight_iata": "ib447",
+          "flight_icao": "ibe447"
+        }
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2022-02-10",
+      "flight_status": "landed",
+      "departure": {
+        "airport": "Barajas",
+        "timezone": "Europe/Madrid",
+        "iata": "MAD",
+        "icao": "LEMD",
+        "terminal": "4S",
+        "gate": null,
+        "delay": 19,
+        "scheduled": "2022-02-10T16:35:00+00:00",
+        "estimated": "2022-02-10T16:35:00+00:00",
+        "actual": "2022-02-10T16:54:00+00:00",
+        "estimated_runway": "2022-02-10T16:54:00+00:00",
+        "actual_runway": "2022-02-10T16:54:00+00:00"
+      },
+      "arrival": {
+        "airport": "Guglielmo Marconi",
+        "timezone": "Europe/Rome",
+        "iata": "BLQ",
+        "icao": "LIPE",
+        "terminal": null,
+        "gate": null,
+        "baggage": null,
+        "delay": null,
+        "scheduled": "2022-02-10T18:55:00+00:00",
+        "estimated": "2022-02-10T18:55:00+00:00",
+        "actual": "2022-02-10T18:40:00+00:00",
+        "estimated_runway": "2022-02-10T18:40:00+00:00",
+        "actual_runway": "2022-02-10T18:40:00+00:00"
+      },
+      "airline": {
+        "name": "LATAM Airlines",
+        "iata": "LA",
+        "icao": "LAN"
+      },
+      "flight": {
+        "number": "1709",
+        "iata": "LA1709",
+        "icao": "LAN1709",
+        "codeshared": {
+          "airline_name": "iberia",
+          "airline_iata": "ib",
+          "airline_icao": "ibe",
+          "flight_number": "8760",
+          "flight_iata": "ib8760",
+          "flight_icao": "ibe8760"
+        }
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2022-02-10",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Arturo Merino Benitez",
+        "timezone": "America/Santiago",
+        "iata": "SCL",
+        "icao": "SCEL",
+        "terminal": null,
+        "gate": "C1",
+        "delay": null,
+        "scheduled": "2022-02-10T15:30:00+00:00",
+        "estimated": "2022-02-10T15:30:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Carrasco International",
+        "timezone": "America/Montevideo",
+        "iata": "MVD",
+        "icao": "SUMU",
+        "terminal": "1",
+        "gate": null,
+        "baggage": null,
+        "delay": null,
+        "scheduled": "2022-02-10T17:40:00+00:00",
+        "estimated": "2022-02-10T17:40:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "LATAM Airlines",
+        "iata": "LA",
+        "icao": "LAN"
+      },
+      "flight": {
+        "number": "410",
+        "iata": "LA410",
+        "icao": "LAN410",
+        "codeshared": null
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2022-02-10",
+      "flight_status": "landed",
+      "departure": {
+        "airport": "International Airport Marechal Rondon",
+        "timezone": "America/Cuiaba",
+        "iata": "CGB",
+        "icao": "SBCY",
+        "terminal": "1",
+        "gate": "1",
+        "delay": 3,
+        "scheduled": "2022-02-10T09:20:00+00:00",
+        "estimated": "2022-02-10T09:20:00+00:00",
+        "actual": "2022-02-10T09:22:00+00:00",
+        "estimated_runway": "2022-02-10T09:22:00+00:00",
+        "actual_runway": "2022-02-10T09:22:00+00:00"
+      },
+      "arrival": {
+        "airport": "Aeroporto Internacional Guarulhos",
+        "timezone": "America/Sao_Paulo",
+        "iata": "GRU",
+        "icao": "SBGR",
+        "terminal": "2",
+        "gate": null,
+        "baggage": null,
+        "delay": null,
+        "scheduled": "2022-02-10T12:35:00+00:00",
+        "estimated": "2022-02-10T12:35:00+00:00",
+        "actual": "2022-02-10T12:07:00+00:00",
+        "estimated_runway": "2022-02-10T12:07:00+00:00",
+        "actual_runway": "2022-02-10T12:07:00+00:00"
+      },
+      "airline": {
+        "name": "LATAM Airlines",
+        "iata": "LA",
+        "icao": "LAN"
+      },
+      "flight": {
+        "number": "3370",
+        "iata": "LA3370",
+        "icao": "LAN3370",
+        "codeshared": null
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2022-02-10",
+      "flight_status": "landed",
+      "departure": {
+        "airport": "Simon Bolivar",
+        "timezone": "America/Bogota",
+        "iata": "SMR",
+        "icao": "SKSM",
+        "terminal": "1",
+        "gate": "4",
+        "delay": 18,
+        "scheduled": "2022-02-10T07:23:00+00:00",
+        "estimated": "2022-02-10T07:23:00+00:00",
+        "actual": "2022-02-10T07:40:00+00:00",
+        "estimated_runway": "2022-02-10T07:40:00+00:00",
+        "actual_runway": "2022-02-10T07:40:00+00:00"
+      },
+      "arrival": {
+        "airport": "El Nuevo Dorado International",
+        "timezone": "America/Bogota",
+        "iata": "BOG",
+        "icao": "SKBO",
+        "terminal": "1",
+        "gate": "12",
+        "baggage": "09",
+        "delay": 3,
+        "scheduled": "2022-02-10T08:45:00+00:00",
+        "estimated": "2022-02-10T08:45:00+00:00",
+        "actual": "2022-02-10T08:47:00+00:00",
+        "estimated_runway": "2022-02-10T08:47:00+00:00",
+        "actual_runway": "2022-02-10T08:47:00+00:00"
+      },
+      "airline": {
+        "name": "LATAM Airlines",
+        "iata": "LA",
+        "icao": "LAN"
+      },
+      "flight": {
+        "number": "4147",
+        "iata": "LA4147",
+        "icao": "LAN4147",
+        "codeshared": null
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2022-02-10",
+      "flight_status": "active",
+      "departure": {
+        "airport": "San Francisco International",
+        "timezone": "America/Los_Angeles",
+        "iata": "SFO",
+        "icao": "KSFO",
+        "terminal": "2",
+        "gate": "C8",
+        "delay": 14,
+        "scheduled": "2022-02-10T07:00:00+00:00",
+        "estimated": "2022-02-10T07:00:00+00:00",
+        "actual": "2022-02-10T07:14:00+00:00",
+        "estimated_runway": "2022-02-10T07:14:00+00:00",
+        "actual_runway": "2022-02-10T07:14:00+00:00"
+      },
+      "arrival": {
+        "airport": "John F Kennedy International",
+        "timezone": "America/New_York",
+        "iata": "JFK",
+        "icao": "KJFK",
+        "terminal": "4",
+        "gate": "B41",
+        "baggage": "T4",
+        "delay": null,
+        "scheduled": "2022-02-10T15:16:00+00:00",
+        "estimated": "2022-02-10T15:16:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "LATAM Airlines",
+        "iata": "LA",
+        "icao": "LAN"
+      },
+      "flight": {
+        "number": "6330",
+        "iata": "LA6330",
+        "icao": "LAN6330",
+        "codeshared": {
+          "airline_name": "delta air lines",
+          "airline_iata": "dl",
+          "airline_icao": "dal",
+          "flight_number": "310",
+          "flight_iata": "dl310",
+          "flight_icao": "dal310"
+        }
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2022-02-10",
+      "flight_status": "landed",
+      "departure": {
+        "airport": "Jose Maria Cordova",
+        "timezone": "America/Bogota",
+        "iata": "MDE",
+        "icao": "SKRG",
+        "terminal": "1",
+        "gate": "5",
+        "delay": 2,
+        "scheduled": "2022-02-10T08:55:00+00:00",
+        "estimated": "2022-02-10T08:55:00+00:00",
+        "actual": "2022-02-10T08:56:00+00:00",
+        "estimated_runway": "2022-02-10T08:56:00+00:00",
+        "actual_runway": "2022-02-10T08:56:00+00:00"
+      },
+      "arrival": {
+        "airport": "Simon Bolivar",
+        "timezone": "America/Bogota",
+        "iata": "SMR",
+        "icao": "SKSM",
+        "terminal": "1",
+        "gate": null,
+        "baggage": null,
+        "delay": null,
+        "scheduled": "2022-02-10T10:11:00+00:00",
+        "estimated": "2022-02-10T10:11:00+00:00",
+        "actual": "2022-02-10T09:52:00+00:00",
+        "estimated_runway": "2022-02-10T09:52:00+00:00",
+        "actual_runway": "2022-02-10T09:52:00+00:00"
+      },
+      "airline": {
+        "name": "LATAM Airlines",
+        "iata": "LA",
+        "icao": "LAN"
+      },
+      "flight": {
+        "number": "4222",
+        "iata": "LA4222",
+        "icao": "LAN4222",
+        "codeshared": null
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2022-02-10",
+      "flight_status": "landed",
+      "departure": {
+        "airport": "Jose Maria Cordova",
+        "timezone": "America/Bogota",
+        "iata": "MDE",
+        "icao": "SKRG",
+        "terminal": "1",
+        "gate": "1A",
+        "delay": 6,
+        "scheduled": "2022-02-10T08:20:00+00:00",
+        "estimated": "2022-02-10T08:20:00+00:00",
+        "actual": "2022-02-10T08:25:00+00:00",
+        "estimated_runway": "2022-02-10T08:25:00+00:00",
+        "actual_runway": "2022-02-10T08:25:00+00:00"
+      },
+      "arrival": {
+        "airport": "El Nuevo Dorado International",
+        "timezone": "America/Bogota",
+        "iata": "BOG",
+        "icao": "SKBO",
+        "terminal": "1",
+        "gate": "15",
+        "baggage": "08",
+        "delay": null,
+        "scheduled": "2022-02-10T09:11:00+00:00",
+        "estimated": "2022-02-10T09:11:00+00:00",
+        "actual": "2022-02-10T08:57:00+00:00",
+        "estimated_runway": "2022-02-10T08:57:00+00:00",
+        "actual_runway": "2022-02-10T08:57:00+00:00"
+      },
+      "airline": {
+        "name": "LATAM Airlines",
+        "iata": "LA",
+        "icao": "LAN"
+      },
+      "flight": {
+        "number": "4021",
+        "iata": "LA4021",
+        "icao": "LAN4021",
+        "codeshared": null
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2022-02-10",
+      "flight_status": "active",
+      "departure": {
+        "airport": "Portland International",
+        "timezone": "America/Los_Angeles",
+        "iata": "PDX",
+        "icao": "KPDX",
+        "terminal": null,
+        "gate": "D14",
+        "delay": 12,
+        "scheduled": "2022-02-10T06:24:00+00:00",
+        "estimated": "2022-02-10T06:24:00+00:00",
+        "actual": "2022-02-10T06:35:00+00:00",
+        "estimated_runway": "2022-02-10T06:35:00+00:00",
+        "actual_runway": "2022-02-10T06:35:00+00:00"
+      },
+      "arrival": {
+        "airport": "John F Kennedy International",
+        "timezone": "America/New_York",
+        "iata": "JFK",
+        "icao": "KJFK",
+        "terminal": "4",
+        "gate": "B20",
+        "baggage": "T4",
+        "delay": null,
+        "scheduled": "2022-02-10T14:27:00+00:00",
+        "estimated": "2022-02-10T14:27:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "LATAM Airlines",
+        "iata": "LA",
+        "icao": "LAN"
+      },
+      "flight": {
+        "number": "6303",
+        "iata": "LA6303",
+        "icao": "LAN6303",
+        "codeshared": {
+          "airline_name": "delta air lines",
+          "airline_iata": "dl",
+          "airline_icao": "dal",
+          "flight_number": "396",
+          "flight_iata": "dl396",
+          "flight_icao": "dal396"
+        }
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2022-02-10",
+      "flight_status": "active",
+      "departure": {
+        "airport": "Doha International",
+        "timezone": "Asia/Qatar",
+        "iata": "DOH",
+        "icao": "OTHH",
+        "terminal": null,
+        "gate": "D18",
+        "delay": 23,
+        "scheduled": "2022-02-10T19:45:00+00:00",
+        "estimated": "2022-02-10T19:45:00+00:00",
+        "actual": "2022-02-10T20:08:00+00:00",
+        "estimated_runway": "2022-02-10T20:08:00+00:00",
+        "actual_runway": "2022-02-10T20:08:00+00:00"
+      },
+      "arrival": {
+        "airport": "Kuala Lumpur International Airport (klia)",
+        "timezone": "Asia/Kuala_Lumpur",
+        "iata": "KUL",
+        "icao": "WMKK",
+        "terminal": "1",
+        "gate": null,
+        "baggage": null,
+        "delay": null,
+        "scheduled": "2022-02-11T08:05:00+00:00",
+        "estimated": "2022-02-11T08:05:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "LATAM Airlines",
+        "iata": "LA",
+        "icao": "LAN"
+      },
+      "flight": {
+        "number": "6065",
+        "iata": "LA6065",
+        "icao": "LAN6065",
+        "codeshared": {
+          "airline_name": "qatar airways",
+          "airline_iata": "qr",
+          "airline_icao": "qtr",
+          "flight_number": "844",
+          "flight_iata": "qr844",
+          "flight_icao": "qtr844"
+        }
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2022-02-10",
+      "flight_status": "active",
+      "departure": {
+        "airport": "Doha International",
+        "timezone": "Asia/Qatar",
+        "iata": "DOH",
+        "icao": "OTHH",
+        "terminal": null,
+        "gate": "C26",
+        "delay": 18,
+        "scheduled": "2022-02-10T20:05:00+00:00",
+        "estimated": "2022-02-10T20:05:00+00:00",
+        "actual": "2022-02-10T20:22:00+00:00",
+        "estimated_runway": "2022-02-10T20:22:00+00:00",
+        "actual_runway": "2022-02-10T20:22:00+00:00"
+      },
+      "arrival": {
+        "airport": "Beirut Rafic Hariri Airport",
+        "timezone": "Asia/Beirut",
+        "iata": "BEY",
+        "icao": "OLBA",
+        "terminal": "MAIN",
+        "gate": null,
+        "baggage": "1",
+        "delay": null,
+        "scheduled": "2022-02-10T23:30:00+00:00",
+        "estimated": "2022-02-10T23:30:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "LATAM Airlines",
+        "iata": "LA",
+        "icao": "LAN"
+      },
+      "flight": {
+        "number": "6044",
+        "iata": "LA6044",
+        "icao": "LAN6044",
+        "codeshared": {
+          "airline_name": "qatar airways",
+          "airline_iata": "qr",
+          "airline_icao": "qtr",
+          "flight_number": "418",
+          "flight_iata": "qr418",
+          "flight_icao": "qtr418"
+        }
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2022-02-10",
+      "flight_status": "landed",
+      "departure": {
+        "airport": "Salgado Filho",
+        "timezone": "America/Sao_Paulo",
+        "iata": "POA",
+        "icao": "SBPA",
+        "terminal": "1",
+        "gate": "122",
+        "delay": null,
+        "scheduled": "2022-02-10T09:30:00+00:00",
+        "estimated": "2022-02-10T09:30:00+00:00",
+        "actual": "2022-02-10T09:29:00+00:00",
+        "estimated_runway": "2022-02-10T09:29:00+00:00",
+        "actual_runway": "2022-02-10T09:29:00+00:00"
+      },
+      "arrival": {
+        "airport": "Aeroporto Internacional Guarulhos",
+        "timezone": "America/Sao_Paulo",
+        "iata": "GRU",
+        "icao": "SBGR",
+        "terminal": "2",
+        "gate": null,
+        "baggage": null,
+        "delay": null,
+        "scheduled": "2022-02-10T11:10:00+00:00",
+        "estimated": "2022-02-10T11:10:00+00:00",
+        "actual": "2022-02-10T10:52:00+00:00",
+        "estimated_runway": "2022-02-10T10:52:00+00:00",
+        "actual_runway": "2022-02-10T10:52:00+00:00"
+      },
+      "airline": {
+        "name": "LATAM Airlines",
+        "iata": "LA",
+        "icao": "LAN"
+      },
+      "flight": {
+        "number": "3078",
+        "iata": "LA3078",
+        "icao": "LAN3078",
+        "codeshared": null
+      },
+      "aircraft": null,
+      "live": null
+    }
+  ]
+}
