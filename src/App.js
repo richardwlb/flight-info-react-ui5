@@ -35,7 +35,7 @@ function App() {
       const result = await api.get('flights', {
         params: {
           ...searchString,
-          access_key: '590ac54b792e61cacc0ceea1078db67f'
+          access_key: process.env.REACT_APP_API_KEY
         }
       });
       setData(result.data);
